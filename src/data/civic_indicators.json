@@ -1,0 +1,50 @@
+{
+  "populacao": 33754,
+  "arrecadacao_anual": 292220000.0,
+  "despesa_liquidada_2025": 238198474.53,
+  "liquidez_caixa_por_real": 10.78,
+  "tax_breakdown_per_100": {
+    "pessoal_encargos": 42.49,
+    "terceiros_pj": 18.33,
+    "administracao_maquina": 14.42,
+    "saude": 30.23,
+    "educacao": 27.51,
+    "camara_vereadores": 2.45,
+    "urbanismo_asfalto": 1.02,
+    "investimentos_obras": 6.1,
+    "diarias_viagens": 0.35,
+    "assistencia_social": 1.1
+  },
+  "anomalias": [
+    {
+      "titulo": "Explosão de Diárias de Viagem (+167%)",
+      "descricao": "Os gastos com diárias civis saltaram de R$ 313.605,50 em 2024 para R$ 837.197,00 em 2025, um aumento vertiginoso de quase 3 vezes em viagens de gestores e servidores.",
+      "gravidade": "ALTA",
+      "setor": "Gabinete & Burocracia"
+    },
+    {
+      "titulo": "Asfixia no Asfalto e Infraestrutura Urbana (-15%)",
+      "descricao": "Enquanto a despesa geral cresceu mais de 50%, os recursos destinados ao Urbanismo caíram de R$ 2,85 milhões para R$ 2,42 milhões (apenas R$ 71 por habitante/ano, contra R$ 668 na vizinha Guarantã).",
+      "gravidade": "CRÍTICA",
+      "setor": "Infraestrutura Urbana"
+    },
+    {
+      "titulo": "Escândalo da UPA e PA União do Norte (R$ 1,55M Bloqueados)",
+      "descricao": "Contrato emergencial sem licitação para terceirização hospitalar que pagou acima do teto contratual e bancou serviços prestados em outro município. O TJ-MT manteve o bloqueio de R$ 1,55M e o afastamento da gestão da Saúde.",
+      "gravidade": "CRÍTICA",
+      "setor": "Saúde Pública"
+    },
+    {
+      "titulo": "Disparada dos Contratos Terceirizados (+46%)",
+      "descricao": "Os contratos com Pessoas Jurídicas (Serviços de Terceiros - PJ) subiram de R$ 29,84 milhões para R$ 43,66 milhões em um único ano, concentrando dezenas de milhões em dispensas e inexigibilidades.",
+      "gravidade": "ALTA",
+      "setor": "Contratos & Terceirizações"
+    },
+    {
+      "titulo": "Custo da Máquina Legislativa (+72%)",
+      "descricao": "A manutenção da Câmara Municipal saltou de R$ 3,38 milhões para R$ 5,83 milhões, consumindo parcela considerável das receitas livres do município.",
+      "gravidade": "MÉDIA",
+      "setor": "Poder Legislativo"
+    }
+  ]
+}

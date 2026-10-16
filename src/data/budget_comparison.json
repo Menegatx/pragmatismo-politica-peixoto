@@ -1,0 +1,216 @@
+{
+  "cities": {
+    "Peixoto de Azevedo": {
+      "name": "Peixoto de Azevedo",
+      "ibge": 5106422,
+      "pop": 33754,
+      "years": {
+        "2024": {
+          "ano": 2024,
+          "despesa_total": 156150414.01,
+          "receita_total": 170993001.26,
+          "pessoal": 70199790.76,
+          "terceiros_pj": 29845333.76,
+          "diarias": 313605.5,
+          "consultoria": 425636.91,
+          "investimentos": 8083961.54,
+          "obras": 6809665.53,
+          "legislativa": 3385375.19,
+          "administracao": 23146171.59,
+          "saude": 51139062.5,
+          "educacao": 47552892.64,
+          "urbanismo": 2853455.41,
+          "assistencia_social": 1755930.8,
+          "agricultura": 0.7,
+          "meio_ambiente": 1689.0,
+          "per_capita": {
+            "despesa": 4626.13,
+            "urbanismo": 84.54,
+            "saude": 1515.05,
+            "educacao": 1408.81,
+            "administracao": 685.73,
+            "legislativa": 100.3,
+            "investimentos": 239.5
+          }
+        },
+        "2025": {
+          "ano": 2025,
+          "despesa_total": 238198474.53,
+          "receita_total": 292221719.89,
+          "pessoal": 101217243.53,
+          "terceiros_pj": 43662024.43,
+          "diarias": 837197.0,
+          "consultoria": 278905.17,
+          "investimentos": 18998959.33,
+          "obras": 14525011.97,
+          "legislativa": 5832739.11,
+          "administracao": 34344774.14,
+          "saude": 72015595.01,
+          "educacao": 65529989.0,
+          "urbanismo": 2423249.52,
+          "assistencia_social": 2624422.56,
+          "agricultura": 0.0,
+          "meio_ambiente": 0.0,
+          "per_capita": {
+            "despesa": 7056.9,
+            "urbanismo": 71.79,
+            "saude": 2133.54,
+            "educacao": 1941.4,
+            "administracao": 1017.5,
+            "legislativa": 172.8,
+            "investimentos": 562.87
+          }
+        }
+      }
+    },
+    "Guarantã do Norte": {
+      "name": "Guarantã do Norte",
+      "ibge": 5104104,
+      "pop": 31209,
+      "years": {
+        "2024": {
+          "ano": 2024,
+          "despesa_total": 243678737.74,
+          "receita_total": 255215117.16,
+          "pessoal": 99842415.07,
+          "terceiros_pj": 31785405.48,
+          "diarias": 956492.36,
+          "consultoria": 925075.78,
+          "investimentos": 37162847.21,
+          "obras": 18479057.29,
+          "legislativa": 4572408.35,
+          "administracao": 21090175.12,
+          "saude": 74030377.34,
+          "educacao": 67573543.79,
+          "urbanismo": 20860101.93,
+          "assistencia_social": 3677823.11,
+          "agricultura": 432301.91,
+          "meio_ambiente": 3205432.87,
+          "per_capita": {
+            "despesa": 7807.96,
+            "urbanismo": 668.4,
+            "saude": 2372.08,
+            "educacao": 2165.19,
+            "administracao": 675.77,
+            "legislativa": 146.51,
+            "investimentos": 1190.77
+          }
+        },
+        "2025": {
+          "ano": 2025,
+          "despesa_total": 205787876.94,
+          "receita_total": 247487914.89,
+          "pessoal": 102194905.58,
+          "terceiros_pj": 27600153.85,
+          "diarias": 718952.01,
+          "consultoria": 566818.14,
+          "investimentos": 6208797.65,
+          "obras": 2093788.96,
+          "legislativa": 0.0,
+          "administracao": 23191950.87,
+          "saude": 68925101.98,
+          "educacao": 55862047.0,
+          "urbanismo": 7583971.49,
+          "assistencia_social": 3805973.54,
+          "agricultura": 156075.86,
+          "meio_ambiente": 2030393.16,
+          "per_capita": {
+            "despesa": 6593.86,
+            "urbanismo": 243.01,
+            "saude": 2208.5,
+            "educacao": 1789.93,
+            "administracao": 743.12,
+            "legislativa": 0.0,
+            "investimentos": 198.94
+          }
+        }
+      }
+    },
+    "Matupá": {
+      "name": "Matupá",
+      "ibge": 5105606,
+      "pop": 21959,
+      "years": {
+        "2024": {
+          "ano": 2024,
+          "despesa_total": 172188875.88,
+          "receita_total": 183258637.21,
+          "pessoal": 61818014.12,
+          "terceiros_pj": 34330135.01,
+          "diarias": 235120.41,
+          "consultoria": 1013268.31,
+          "investimentos": 30747761.15,
+          "obras": 19776118.03,
+          "legislativa": 3009593.49,
+          "administracao": 22072611.47,
+          "saude": 36292682.02,
+          "educacao": 39656000.94,
+          "urbanismo": 9820791.56,
+          "assistencia_social": 5645111.71,
+          "agricultura": 3283680.04,
+          "meio_ambiente": 2061775.12,
+          "per_capita": {
+            "despesa": 7841.38,
+            "urbanismo": 447.23,
+            "saude": 1652.75,
+            "educacao": 1805.91,
+            "administracao": 1005.17,
+            "legislativa": 137.06,
+            "investimentos": 1400.24
+          }
+        },
+        "2025": {
+          "ano": 2025,
+          "despesa_total": 180971743.12,
+          "receita_total": 214286799.97,
+          "pessoal": 75149346.95,
+          "terceiros_pj": 30955449.41,
+          "diarias": 333418.49,
+          "consultoria": 929894.16,
+          "investimentos": 21534846.61,
+          "obras": 8974624.78,
+          "legislativa": 3898300.21,
+          "administracao": 23237485.66,
+          "saude": 43104889.65,
+          "educacao": 52040261.7,
+          "urbanismo": 6428229.76,
+          "assistencia_social": 6352119.83,
+          "agricultura": 3896470.71,
+          "meio_ambiente": 1785446.25,
+          "per_capita": {
+            "despesa": 8241.35,
+            "urbanismo": 292.74,
+            "saude": 1962.97,
+            "educacao": 2369.88,
+            "administracao": 1058.22,
+            "legislativa": 177.53,
+            "investimentos": 980.68
+          }
+        }
+      }
+    }
+  },
+  "regional_comparison_2025": {
+    "urbanismo_per_capita": {
+      "Peixoto de Azevedo": 71.79,
+      "Guarantã do Norte": 243.01,
+      "Matupá": 292.74,
+      "Media_Mato_Grosso": 385.5,
+      "Media_Brasil": 312.4
+    },
+    "administracao_per_capita": {
+      "Peixoto de Azevedo": 1017.5,
+      "Guarantã do Norte": 743.12,
+      "Matupá": 1058.22,
+      "Media_Mato_Grosso": 680.2,
+      "Media_Brasil": 610.15
+    },
+    "investimentos_ratio": {
+      "Peixoto de Azevedo": 7.98,
+      "Guarantã do Norte": 3.02,
+      "Matupá": 11.9,
+      "Media_Mato_Grosso": 14.8,
+      "Media_Brasil": 9.5
+    }
+  }
+}
