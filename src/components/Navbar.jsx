@@ -25,6 +25,7 @@ export default function Navbar() {
           <a href="#calculadora" className="hover:text-cyan-400 transition-colors">Calculadora</a>
           <a href="#benchmark" className="hover:text-cyan-400 transition-colors">Comparativo Regional</a>
           <a href="#fornecedores" className="hover:text-cyan-400 transition-colors">Raio-X Fornecedores</a>
+          <a href="#politicos" className="hover:text-cyan-400 transition-colors font-semibold text-cyan-300">Quem Cobrar (Políticos)</a>
           <a href="#api-status" className="hover:text-cyan-400 transition-colors flex items-center gap-1">
             <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
             APIs Oficiais

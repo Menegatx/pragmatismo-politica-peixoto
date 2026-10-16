@@ -1,10 +1,11 @@
-import React, { useState } from 'react'
+import React from 'react'
 import Navbar from './components/Navbar'
 import HeroSection from './components/HeroSection'
 import StorytellingSection from './components/StorytellingSection'
 import TaxCalculatorSection from './components/TaxCalculatorSection'
 import RegionalBenchmarkSection from './components/RegionalBenchmarkSection'
 import SuppliersSection from './components/SuppliersSection'
+import PoliticiansSection from './components/PoliticiansSection'
 import ApiStatusSection from './components/ApiStatusSection'
 import Footer from './components/Footer'
 
@@ -41,6 +42,8 @@ export default function App() {
           contracts={contracts} 
           suppliersSummary={suppliersSummary} 
         />
+
+        <PoliticiansSection />
 
         <ApiStatusSection />
       </main>

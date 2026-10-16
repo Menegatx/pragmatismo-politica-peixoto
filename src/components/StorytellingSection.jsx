@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { AlertCircle, TrendingUp, AlertTriangle, Hospital, Plane, Users, Building, ShieldAlert, Check } from 'lucide-react'
+import { Home, AlertTriangle, Hospital, Plane, Users, Building, ShieldAlert, Check, HelpCircle, ArrowRight } from 'lucide-react'
 
 export default function StorytellingSection({ civicData }) {
   const [activeTab, setActiveTab] = useState(0)
@@ -8,35 +8,113 @@ export default function StorytellingSection({ civicData }) {
 
   return (
     <section id="diagnostico" className="py-20 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
+      {/* Cabeçalho com Horizontal Logic (Ação em vez de rótulo passivo) */}
       <div className="text-center max-w-3xl mx-auto mb-16">
         <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-cyan-500/10 border border-cyan-500/20 text-cyan-400 text-xs font-semibold mb-3">
-          <AlertCircle className="w-3.5 h-3.5" />
-          <span>Storytelling de Dados Fiscais</span>
+          <HelpCircle className="w-3.5 h-3.5" />
+          <span>Storytelling de Dados • Didática Sem Burocracia</span>
         </div>
         <h2 className="text-3xl sm:text-4xl font-extrabold text-white tracking-tight">
-          O Paradoxo de Peixoto: Cofre Cheio, Cidade Estrangulada
+          A Verdade dos Fatos: O Dinheiro Sobra no Banco, Mas Some das Ruas
         </h2>
         <p className="mt-4 text-slate-300 text-sm sm:text-base leading-relaxed">
-          O discurso padrão de qualquer prefeito é sempre o mesmo: <i>"não temos recursos"</i>. 
-          Os números oficiais do Tesouro Nacional desmentem categoricamente essa tese. 
-          <b> Peixoto de Azevedo não tem problema de receita; tem um gargalo crônico de alocação e prioridades.</b>
+          Prefeitos e secretários sempre usam a mesma desculpa: <i>"a prefeitura tá sem dinheiro"</i>. 
+          Vamos provar, usando uma comparação simples com o orçamento da sua própria casa, 
+          como o dinheiro de Peixoto de Azevedo é suficiente — mas foi colocado nos lugares errados.
         </p>
       </div>
 
-      {/* Grid de 3 grandes pilares do paradoxo */}
+      {/* A GRANDE ANALOGIA DA CASA DO TRABALHADOR (Storytelling com Dados de Cole Knaflic) */}
+      <div className="mb-16 p-6 sm:p-10 rounded-3xl bg-gradient-to-b from-slate-900 via-slate-900/90 to-slate-950 border border-cyan-500/30 shadow-2xl relative overflow-hidden">
+        <div className="absolute top-0 right-0 w-96 h-96 bg-cyan-500/10 blur-[100px] pointer-events-none" />
+
+        <div className="flex flex-col lg:flex-row items-start lg:items-center justify-between gap-6 pb-8 border-b border-slate-800">
+          <div className="flex items-center gap-4">
+            <div className="w-14 h-14 rounded-2xl bg-cyan-500/20 border border-cyan-500/40 flex items-center justify-center text-cyan-400 shrink-0">
+              <Home className="w-7 h-7" />
+            </div>
+            <div>
+              <span className="text-[11px] font-bold uppercase tracking-wider text-cyan-400">Para Qualquer Cidadão Entender</span>
+              <h3 className="text-xl sm:text-2xl font-black text-white mt-0.5">
+                E Se a Prefeitura de Peixoto Fosse a Sua Casa?
+              </h3>
+            </div>
+          </div>
+
+          <div className="px-4 py-2 rounded-xl bg-slate-950 border border-slate-800 text-xs font-mono text-slate-300">
+            Comparação baseada em <b className="text-emerald-400">R$ 10.000 de renda mensal</b>
+          </div>
+        </div>
+
+        <div className="mt-8 grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
+          {/* Lado Esquerdo: O Cenário Doméstico */}
+          <div className="space-y-4 text-slate-300 text-sm leading-relaxed">
+            <p>
+              Imagine que a sua família tenha uma renda de <b>R$ 10.000 por mês</b>. É um bom dinheiro no interior de Mato Grosso. Dá para viver bem, reformar a casa e cuidar da saúde de todo mundo.
+            </p>
+            <p className="p-4 rounded-xl bg-slate-950/70 border border-slate-800/80 text-xs text-slate-300">
+              Mas olha o que a administração fez com esses R$ 10.000:
+              <br/><br/>
+              • Gastou <b>R$ 4.250</b> pagando os salários de quem administra a casa.<br/>
+              • Gastou <b>R$ 1.830</b> contratando empresas terceirizadas de fora.<br/>
+              • Gastou <b>R$ 1.440</b> só em papelada, gabinetes e materiais de escritório.<br/>
+              • Gastou <b>R$ 35</b> pagando diárias de viagens e passeios.<br/>
+              • E quando chove e a água entra pelo telhado do quarto dos seus filhos... ela diz que <b className="text-red-400">só sobraram R$ 101</b> para consertar o telhado e arrumar o quintal!
+            </p>
+            <p className="text-xs text-slate-400 font-medium">
+              E o mais revoltante: quando você abre a gaveta da cômoda, você descobre que tem <b className="text-emerald-400">R$ 1.078 guardados em dinheiro vivo</b> para cada R$ 100 de conta para pagar!
+            </p>
+          </div>
+
+          {/* Lado Direito: O Contraste Visual Impactante (Cole Knaflic's Preattentive Attribute) */}
+          <div className="p-6 rounded-2xl bg-slate-950 border border-slate-800 space-y-4">
+            <div className="text-xs font-bold uppercase tracking-wider text-slate-400 mb-2">
+              O Contraste dos Gastos em Peixoto:
+            </div>
+
+            <div className="space-y-3">
+              <div>
+                <div className="flex justify-between text-xs font-semibold mb-1">
+                  <span className="text-slate-300">Máquina Administrativa, Gabinetes e Pessoal:</span>
+                  <span className="text-white font-mono font-bold">94% dos recursos</span>
+                </div>
+                <div className="h-3 w-full bg-slate-800 rounded-full overflow-hidden">
+                  <div className="bg-slate-400 h-full w-[94%]"></div>
+                </div>
+              </div>
+
+              <div>
+                <div className="flex justify-between text-xs font-semibold mb-1">
+                  <span className="text-red-400 font-bold">Asfalto, Drenagem e Infraestrutura Urbana:</span>
+                  <span className="text-red-400 font-mono font-black">Apenas 1% do total!</span>
+                </div>
+                <div className="h-3 w-full bg-slate-800 rounded-full overflow-hidden">
+                  <div className="bg-red-500 h-full w-[1.01%]"></div>
+                </div>
+              </div>
+            </div>
+
+            <div className="mt-6 p-4 rounded-xl bg-red-500/10 border border-red-500/20 text-xs text-red-300 leading-relaxed">
+              <b>A Pergunta Que Não Quer Calar:</b> Você aceitaria essa desculpa de "falta de dinheiro" dentro da sua própria casa? Então por que aceitar dos políticos na prefeitura?
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* Grid de 3 Pilares com Metas e Analogias */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-16">
         <div className="p-6 rounded-2xl bg-gradient-to-b from-slate-900 to-slate-950 border border-slate-800 hover:border-slate-700 transition-all shadow-xl">
           <div className="w-12 h-12 rounded-xl bg-cyan-500/10 border border-cyan-500/20 flex items-center justify-center text-cyan-400 mb-5">
             <Building className="w-6 h-6" />
           </div>
-          <span className="text-xs font-bold uppercase tracking-wider text-cyan-400">Ineficiência Estrutural</span>
-          <h3 className="text-lg font-bold text-white mt-1">94% na Máquina, 6% em Obras</h3>
+          <span className="text-xs font-bold uppercase tracking-wider text-cyan-400">A Máquina Engolidora</span>
+          <h3 className="text-lg font-bold text-white mt-1">94% Gasto Com a Própria Máquina</h3>
           <p className="mt-2 text-xs text-slate-300 leading-relaxed">
-            De cada R$ 100 pagos pelo povo, mais de <b>R$ 94 são engolidos pela própria máquina pública</b> (salários, terceirizados, gabinetes e burocracia-meio). Apenas R$ 6 viram investimento real em infraestrutura duradoura.
+            A cada R$ 100 arrecadados dos impostos do trabalhador, R$ 94 são gastos para manter a prefeitura funcionando (salários, terceirizados e gabinetes). <b>Apenas R$ 6 viram obras públicas</b> como asfalto, postos ou escolas.
           </p>
           <div className="mt-4 pt-4 border-t border-slate-800/80 flex items-center justify-between text-xs font-medium">
             <span className="text-slate-400">Investimento em Obras:</span>
-            <span className="text-red-400 font-bold">6,09% do total</span>
+            <span className="text-red-400 font-bold">Apenas 6,09%</span>
           </div>
         </div>
 
@@ -44,28 +122,28 @@ export default function StorytellingSection({ civicData }) {
           <div className="w-12 h-12 rounded-xl bg-red-500/10 border border-red-500/20 flex items-center justify-center text-red-400 mb-5">
             <Hospital className="w-6 h-6" />
           </div>
-          <span className="text-xs font-bold uppercase tracking-wider text-red-400">Risco Material na Linha de Frente</span>
+          <span className="text-xs font-bold uppercase tracking-wider text-red-400">O Ralo da Saúde</span>
           <h3 className="text-lg font-bold text-white mt-1">R$ 1,55 Milhão Bloqueados na Justiça</h3>
           <p className="mt-2 text-xs text-slate-300 leading-relaxed">
-            Contratação emergencial sem concorrência para gerenciar a UPA 24h e o PA de União do Norte resultou em pagamentos acima do teto contratual e pagamento de despesas de outro município com verba de Peixoto.
+            Contratação emergencial sem licitação para gerenciar a UPA 24h e o Pronto Atendimento de União do Norte. A Justiça de MT bloqueou R$ 1,55M após constatar pagamentos acima do contrato e despesas de outro município bancadas com dinheiro de Peixoto.
           </p>
           <div className="mt-4 pt-4 border-t border-slate-800/80 flex items-center justify-between text-xs font-medium">
             <span className="text-slate-400">Decisão Judicial TJ-MT:</span>
-            <span className="text-red-400 font-bold">Afastamento mantido</span>
+            <span className="text-red-400 font-bold">Prefeito afastado da Saúde</span>
           </div>
         </div>
 
         <div className="p-6 rounded-2xl bg-gradient-to-b from-slate-900 to-slate-950 border border-slate-800 hover:border-slate-700 transition-all shadow-xl">
           <div className="w-12 h-12 rounded-xl bg-amber-500/10 border border-amber-500/20 flex items-center justify-center text-amber-400 mb-5">
-            <TrendingUp className="w-6 h-6" />
+            <Plane className="w-6 h-6" />
           </div>
-          <span className="text-xs font-bold uppercase tracking-wider text-amber-400">Aumento Sem Retorno</span>
-          <h3 className="text-lg font-bold text-white mt-1">Diárias +167% & Terceirizados +46%</h3>
+          <span className="text-xs font-bold uppercase tracking-wider text-amber-400">Viagens Sem Freio</span>
+          <h3 className="text-lg font-bold text-white mt-1">Diárias Saltaram +167% em 1 Ano</h3>
           <p className="mt-2 text-xs text-slate-300 leading-relaxed">
-            Em apenas 12 meses, as diárias de viagem saltaram de R$ 313 mil para R$ 837 mil. Contratos com pessoas jurídicas explodiram para R$ 43,66 milhões, enquanto a drenagem e asfalto da cidade diminuíram de orçamento.
+            Enquanto as ruas dos bairros sofrem com buracos e poeira, os gastos com diárias de viagens de servidores e gestores saltaram de R$ 313 mil para <b>R$ 837 mil em 2025</b>. Quase 3 vezes mais dinheiro em viagens!
           </p>
           <div className="mt-4 pt-4 border-t border-slate-800/80 flex items-center justify-between text-xs font-medium">
-            <span className="text-slate-400">Salto em Diárias:</span>
+            <span className="text-slate-400">Total em Diárias 2025:</span>
             <span className="text-amber-400 font-bold">R$ 837.197,00</span>
           </div>
         </div>
@@ -77,15 +155,15 @@ export default function StorytellingSection({ civicData }) {
           <div>
             <h3 className="text-xl font-bold text-white flex items-center gap-2">
               <ShieldAlert className="w-5 h-5 text-red-400" />
-              <span>Painel de Anomalias & Ineficiências Críticas</span>
+              <span>Dossiê das 5 Anomalias Críticas de Peixoto</span>
             </h3>
             <p className="text-xs text-slate-400 mt-1">
-              Fatos apurados a partir dos demonstrativos do SICONFI (DCA Anexos I-C, I-D e I-E) e acórdãos do TJ-MT.
+              Documentado a partir dos balanços oficiais do SICONFI (Tesouro Nacional) e decisões judiciais do Tribunal de Justiça de Mato Grosso.
             </p>
           </div>
 
           <span className="px-3 py-1 rounded-full text-xs font-bold bg-red-500/10 text-red-400 border border-red-500/20 self-start sm:self-auto">
-            {anomalies.length} Anomalias Auditadas
+            {anomalies.length} Fatos Auditados
           </span>
         </div>
 
@@ -126,7 +204,7 @@ export default function StorytellingSection({ civicData }) {
                     ? 'bg-red-500/20 text-red-400'
                     : 'bg-amber-500/20 text-amber-400'
                 }`}>
-                  Nível de Risco: {anomalies[activeTab]?.gravidade}
+                  Nível de Alerta: {anomalies[activeTab]?.gravidade}
                 </span>
                 <span className="text-xs text-slate-400 font-semibold">• Setor: {anomalies[activeTab]?.setor}</span>
               </div>
@@ -142,18 +220,18 @@ export default function StorytellingSection({ civicData }) {
               <div className="mt-6 p-4 rounded-lg bg-slate-900/90 border border-slate-800 text-xs text-slate-300 space-y-2">
                 <div className="font-semibold text-cyan-400 flex items-center gap-1.5">
                   <Check className="w-4 h-4" />
-                  <span>Por que isso importa para o trabalhador comum?</span>
+                  <span>O Que Isso Causa na Vida do Cidadão Comum:</span>
                 </div>
                 <p className="text-slate-400 leading-relaxed">
-                  Cada real desviado para diárias sem justificativa ou contratos sem concorrência é um real a menos para o médico no postinho de União do Norte, para a lâmpada do poste ou para tapar os buracos da rua onde passam o ônibus e a moto do cidadão.
+                  Cada milhão gasto em diárias supérfluas ou contratos sem concorrência é um caminhão de asfalto a menos, um médico a menos na escala da UPA de madrugada, e o pneu da moto do trabalhador furado no buraco.
                 </p>
               </div>
             </div>
 
             <div className="mt-6 pt-4 border-t border-slate-800/80 flex items-center justify-between text-xs text-slate-400">
-              <span>Fonte: SICONFI / IBGE / Decisão Judicial TJ-MT</span>
-              <a href="#fornecedores" className="text-cyan-400 hover:underline font-semibold">
-                Ver fornecedores relacionados →
+              <span>Fonte: SICONFI / IBGE / Tribunal de Justiça de MT</span>
+              <a href="#politicos" className="text-cyan-400 hover:underline font-semibold flex items-center gap-1">
+                Cobrar dos políticos responsáveis →
               </a>
             </div>
           </div>
