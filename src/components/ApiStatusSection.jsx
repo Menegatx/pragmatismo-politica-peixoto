@@ -65,18 +65,34 @@ export default function ApiStatusSection() {
               </div>
             </div>
 
-            {/* Como atualizar */}
+            {/* Automação e Auditoria Autônoma */}
             <div className="mt-6 p-4 rounded-xl bg-slate-950 border border-slate-800">
-              <div className="flex items-center gap-2 text-xs font-bold text-cyan-400 mb-2">
-                <Terminal className="w-4 h-4" />
-                <span>Como Rodar a Atualização Contínua dos Dados:</span>
+              <div className="flex items-center justify-between mb-2">
+                <div className="flex items-center gap-2 text-xs font-bold text-cyan-400">
+                  <RefreshCw className="w-4 h-4 text-cyan-400" />
+                  <span>Sincronização 100% Autônoma (Sem Filtro Político)</span>
+                </div>
+                <span className="text-[10px] font-bold px-2 py-0.5 rounded bg-cyan-500/10 text-cyan-400 border border-cyan-500/20">
+                  Robô Diário Ativo
+                </span>
               </div>
               <p className="text-[11px] text-slate-400 mb-3 leading-relaxed">
-                Você pode executar o pipeline a qualquer momento no seu computador ou servidor para puxar novos contratos e gerar automaticamente a versão mais recente do site e do PDF:
+                Esta plataforma não depende de intervenção humana para ser atualizada. Um robô em nuvem consulta as APIs oficiais do Governo Federal e do Tesouro Nacional diariamente às 03h da madrugada, atualizando os valores e gerando um novo dossiê em PDF automaticamente.
               </p>
-              <div className="bg-slate-900 px-3.5 py-2.5 rounded-lg border border-slate-800 font-mono text-xs text-emerald-400 flex items-center justify-between">
-                <code>./pipeline/update_pipeline.sh</code>
-                <span className="text-[10px] text-slate-500">Bash / Cron Script</span>
+              <div className="flex items-center justify-between pt-2.5 border-t border-slate-900 text-[11px]">
+                <span className="text-slate-400 flex items-center gap-1.5">
+                  <Shield className="w-3.5 h-3.5 text-emerald-400" />
+                  Código e metodologia 100% públicos para conferência
+                </span>
+                <a
+                  href="https://github.com/Menegatx/pragmatismo-politica-peixoto"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-1 text-cyan-400 hover:text-cyan-300 font-semibold transition-colors"
+                >
+                  <span>Auditar no GitHub</span>
+                  <ArrowUpRight className="w-3 h-3" />
+                </a>
               </div>
             </div>
           </div>
