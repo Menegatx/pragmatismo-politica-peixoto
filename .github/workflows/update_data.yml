@@ -1,0 +1,48 @@
+name: Atualização Automática de Dados Cívicos e PDF
+
+on:
+  schedule:
+    # Executa automaticamente todos os dias às 03:00 UTC (23:00 no horário de MT)
+    - cron: '0 3 * * *'
+  workflow_dispatch: # Permite disparo manual com 1 clique na aba Actions do GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do Repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar Dependências do Pipeline
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests reportlab
+
+      - name: Executar Extração Oficial (PNCP, SICONFI e TSE)
+        run: python pipeline/fetch_data.py
+
+      - name: Processar Indicadores e Anomalias
+        run: python pipeline/analyze.py
+
+      - name: Gerar Dossiê em PDF Atualizado
+        run: python pipeline/generate_pdf.py
+
+      - name: Commit e Push Automático das Atualizações
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add src/data/ public/dossie-auditoria-peixoto.pdf
+          if git diff --staged --quiet; then
+            echo "Nenhum novo contrato ou dado publicado hoje. Nada a comitar."
+          else
+            git commit -m "chore(cron): sincronizacao automatica de dados oficiais das APIs e regeneracao do PDF"
+            git push origin main
+          fi
