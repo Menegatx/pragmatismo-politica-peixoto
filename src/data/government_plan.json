@@ -1,0 +1,66 @@
+{
+  "candidato": "Nilmar Nunes de Miranda (Paulistinha)",
+  "cargo": "Prefeito Municipal Eleito",
+  "partido": "UNIÃO Brasil",
+  "coligacao": "Humildade e Trabalho (PP / UNIÃO / PDT / PSB / PRD / PODE)",
+  "registro_tse": "Eleições Municipais 2024 / Peixoto de Azevedo - MT",
+  "resumo_execucao": {
+    "media_geral_atingida": 48.0,
+    "total_metas_analisadas": 5,
+    "metas_avancadas": 2,
+    "metas_criticas_atrasadas": 3,
+    "diagnostico_metrometro": "O cumprimento das metas da gestão avança onde há convênios pesados e financiamento direto do Governo do Estado (como na MT-322), mas empaca ou sofre anomalias graves onde depende de gestão orçamentária própria do município (Saúde, Asfalto dos Bairros e Modernização da Máquina Pública)."
+  },
+  "metas": [
+    {
+      "id": "meta_asfalto",
+      "eixo": "Infraestrutura Urbana & Estradas",
+      "promessa_campanha": "Asfaltar as marginais da MT-322 no Distrito de União do Norte, recuperar travessias e ampliar o asfalto com drenagem nos bairros de Peixoto.",
+      "status": "Em Andamento (Com Apoio Estadual)",
+      "percentual_atingido": 70,
+      "progresso_cor": "bg-emerald-500",
+      "o_que_foi_feito": "A pavimentação das vias marginais e paralelas da MT-322 em União do Norte avançou com mais de 7 km de asfalto, trazendo alívio histórico à comunidade contra a lama e poeira.",
+      "o_que_ficou_devendo": "Os bairros periféricos da sede de Peixoto (como Liberdade e Jerusalém) continuam com baixíssimo investimento próprio (apenas R$ 71/hab), dependendo de operações tapa-buraco precárias."
+    },
+    {
+      "id": "meta_saude",
+      "eixo": "Saúde Pública & UPA 24h",
+      "promessa_campanha": "Garantir atendimento humanizado e contínuo na UPA 24 Horas e no Pronto Atendimento de União do Norte, acabando com a falta de médicos e ambulâncias.",
+      "status": "Crítico / Sob Investigação Judicial",
+      "percentual_atingido": 25,
+      "progresso_cor": "bg-red-500",
+      "o_que_foi_feito": "Entrega de ambulâncias e UTI móvel para suporte no transporte de pacientes graves.",
+      "o_que_ficou_devendo": "Contratação emergencial sem licitação de mais de R$ 15 milhões gerou ação judicial, culminando em decisão unânime do TJ-MT que bloqueou R$ 1,55M e determinou o afastamento cautelar de gestores por pagamentos acima do contrato."
+    },
+    {
+      "id": "meta_educacao",
+      "eixo": "Educação Básica & Creches",
+      "promessa_campanha": "Ampliar vagas em creches de tempo integral, climatizar salas de aula e valorizar professores da rede municipal.",
+      "status": "No Limite Mínimo Legal",
+      "percentual_atingido": 50,
+      "progresso_cor": "bg-amber-500",
+      "o_que_foi_feito": "Manutenção das rotas de transporte escolar rural e funcionamento regular das unidades de ensino fundamental.",
+      "o_que_ficou_devendo": "Aplicação de apenas 25,91% em educação (raspando os 25% obrigatórios por lei). Quase 9% das crianças de 6 a 14 anos continuam fora da escola, e mães relatam filas de espera por creches."
+    },
+    {
+      "id": "meta_agro_garimpo",
+      "eixo": "Desenvolvimento Econômico, Agro & Garimpo",
+      "promessa_campanha": "Apoiar a agricultura familiar dos assentamentos, recuperar pontes vicinais de madeira e dialogar com o setor garimpeiro tradicional.",
+      "status": "Parcialmente Atingido",
+      "percentual_atingido": 65,
+      "progresso_cor": "bg-emerald-500",
+      "o_que_foi_feito": "Substituição de pontes de madeira por pontes e bueiros de concreto em parceria com a Secretaria de Infraestrutura de MT (Sinfra-MT), como a ponte sobre o Rio Pium.",
+      "o_que_ficou_devendo": "O orçamento da Secretaria Municipal de Agricultura é irrisório nos balanços do SICONFI (menos de 0,1% da despesa), dependendo quase que exclusivamente de verbas estaduais."
+    },
+    {
+      "id": "meta_transparencia",
+      "eixo": "Transparência & Eficiência Administrativa",
+      "promessa_campanha": "Governo transparente, combate a privilégios e eficiência máxima para fazer o dinheiro render mais.",
+      "status": "Em Retrocesso",
+      "percentual_atingido": 30,
+      "progresso_cor": "bg-red-500",
+      "o_que_foi_feito": "Cumprimento de prazos formais de envio de balancetes contábeis ao Tribunal de Contas de Mato Grosso.",
+      "o_que_ficou_devendo": "Gastos com diárias civis saltaram +167% (R$ 837 mil em 2025), a burocracia de gabinetes subiu 48% (R$ 34,3 Mi), e o portal municipal de transparência continua sem fornecer API aberta para auditoria cidadã."
+    }
+  ]
+}

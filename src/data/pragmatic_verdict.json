@@ -1,0 +1,46 @@
+{
+  "titulo": "Veredito Pragmático: O Resumo Definitivo da Gestão de Peixoto de Azevedo",
+  "periodo_auditado": "2024 - 2026",
+  "declaracao_de_imparcialidade": "Esta consolidação final não tem viés de partido ou ideologia. Se o governo acerta, reconhecemos o fato; se erra ou desvia, apontamos o número e a prova jurídica. Nosso único lado é o bolso e o estômago do trabalhador.",
+  "scorecard_geral": {
+    "arrecadacao_e_caixa": { "nota": "A (Excelente)", "status": "COFRE CHEIO", "motivo": "Arrecadação recorde de R$ 292 Milhões e R$ 10,78 em caixa para cada R$ 1,00 de dívida de curto prazo. Não falta dinheiro no banco." },
+    "investimento_em_asfalto": { "nota": "F (Reprovado)", "status": "ABANDONO GRAVE", "motivo": "Míseros R$ 71,79 por habitante/ano (1% do orçamento). A vizinha Guarantã investe até 9x mais." },
+    "integridade_na_saude": { "nota": "F (Reprovado)", "status": "ESCÂNDALO JUDICIAL", "motivo": "R$ 1,55 Milhão bloqueados pelo TJ-MT por pagamentos indevidos e afastamento cautelar de gestores." },
+    "articulacao_estadual": { "nota": "B+ (Boa)", "status": "AVANÇO REAL", "motivo": "Conseguiu viabilizar com o Governo de MT obras históricas como asfalto na MT-322 em União do Norte e pontes de concreto." },
+    "controle_da_maquina": { "nota": "D (Muito Ruim)", "status": "INCHAÇO BUROCRÁTICO", "motivo": "Aumento de 48% em gabinetes (R$ 34,3 Mi) e explosão de 167% em diárias de viagens em apenas 1 ano." },
+    "educacao_e_creches": { "nota": "C (Regular)", "status": "NO LIMITE MÍNIMO", "motivo": "Cumpre apenas a raspa do tacho constitucional (25,91%), enquanto 8,95% das crianças estão fora da escola." }
+  },
+  "onde_a_gestao_acerta": [
+    {
+      "ponto": "Parceria Estratégica com o Governo do Estado",
+      "detalhe": "Soube articular recursos com o Palácio Paiaguás e bancadas da Assembleia Legislativa para destravar obras rodoviárias de grande porte que o município sozinho não conseguiria custear (MT-322 e ponte sobre o Rio Pium)."
+    },
+    {
+      "ponto": "Saúde Financeira e Superávit de Liquidez",
+      "detalhe": "O município mantém nota máxima em capacidade de pagamento de curto prazo (R$ 10,78 em caixa para cada R$ 1 de conta), mantendo salários de servidores em dia e solvência fiscal perante fornecedores."
+    },
+    {
+      "ponto": "Avanço no Tratamento de Esgoto Urbano",
+      "detalhe": "Cobrança e acompanhamento da concessão de saneamento, que bateu recorde de 477 milhões de litros de esgoto tratados em 2025 na sede urbana."
+    }
+  ],
+  "onde_a_gestao_erra_grosseiramente": [
+    {
+      "ponto": "Falta de Vergonha no Asfalto dos Bairros",
+      "detalhe": "Gastar apenas R$ 71 por morador/ano em urbanismo para uma cidade com quase R$ 300 milhões de receita é imperdoável. Enquanto os bairros comem poeira e lama, sobra dinheiro guardado no banco."
+    },
+    {
+      "ponto": "Contratações de Risco e Desvios na Saúde",
+      "detalhe": "Fabricar emergência para contratar entidade terceirizada sem licitação por mais de R$ 15 milhões, pagar despesas de outra cidade com a verba de Peixoto e ter R$ 1,55M bloqueados por ordem unânime do TJ-MT é a maior mancha da gestão."
+    },
+    {
+      "ponto": "Farra de Diárias de Viagem (+167%)",
+      "detalhe": "Saltar de R$ 313 mil para R$ 837 mil em diárias pagas a servidores e chefias em apenas 12 meses demonstra completa falta de pudor no uso da verba de custeio."
+    },
+    {
+      "ponto": "Perseguição à Fiscalização e Falta de Transparência",
+      "detalhe": "Exonerar servidor que apontou desvios em contratos e manter portal da transparência em PDF travado sem API aberta viola a Lei de Acesso à Informação."
+    }
+  ],
+  "conclusao_para_o_trabalhador": "A conclusão técnica e materialista é irrefutável: Peixoto de Azevedo tem recursos de sobra, arrecada como gente grande, mas governa voltada para si mesma. Quase 95% do dinheiro circula dentro da máquina e de contratos parceiros, enquanto o povo recebe migalhas no asfalto e sofre com a desassistência na saúde. A solução não virá de promessas de campanha ou discursos ideológicos, mas da cobrança firme e organizada da população em cima dos 15 políticos que decidem cada linha do orçamento."
+}

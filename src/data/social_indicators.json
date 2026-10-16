@@ -1,0 +1,83 @@
+{
+  "cidade": "Peixoto de Azevedo - MT",
+  "perfil_demografico": {
+    "populacao_ibge": 33754,
+    "gentilico": "Peixotense",
+    "area_territorial_km2": 14398.66,
+    "densidade_demografica": 2.34,
+    "distritos": ["Sede Municipal", "União do Norte (a 70 km da sede)"],
+    "bioma": "Amazônia (Transição para Cerrado)",
+    "vocacao_economica": "Mineração de ouro (garimpo tradicional da Bacia do Rio Peixoto), Pecuária de corte e expansão da Agricultura (Soja/Milho)"
+  },
+  "indices_sociais": {
+    "idhm": {
+      "valor": 0.671,
+      "classificacao": "Médio",
+      "ranking_mt": "68º lugar no Estado de MT",
+      "comparativo": {
+        "Peixoto": 0.671,
+        "Matupá": 0.723,
+        "Guarantã_do_Norte": 0.718,
+        "Media_Mato_Grosso": 0.774,
+        "Media_Brasil": 0.754
+      },
+      "diagnostico": "Peixoto de Azevedo está quase 100 pontos abaixo da média de Mato Grosso no Índice de Desenvolvimento Humano. Apesar da riqueza mineral e do agronegócio pujante, a riqueza não se converte em bem-estar social para a maioria dos moradores."
+    },
+    "mortalidade_infantil": {
+      "valor": 16.05,
+      "unidade": "óbitos por mil nascidos vivos",
+      "comparativo": {
+        "Peixoto": 16.05,
+        "Guarantã_do_Norte": 11.20,
+        "Matupá": 9.80,
+        "Media_Mato_Grosso": 12.40,
+        "Media_Brasil": 11.90
+      },
+      "diagnostico": "Mortalidade infantil 30% maior que a média do Estado e quase o dobro da vizinha Matupá. Demonstra deficiência estrutural na atenção básica materno-infantil e pré-natal nos postos de saúde."
+    },
+    "escolarizacao": {
+      "taxa_6_a_14": 91.05,
+      "fora_da_escola": 8.95,
+      "diagnostico": "Quase 9% das crianças de 6 a 14 anos estão fora da sala de aula regular em Peixoto, enquanto cidades vizinhas mantêm mais de 97% das crianças matriculadas."
+    },
+    "saneamento_esgoto": {
+      "acesso_esgoto_sede": "Em ampliação (477 milhões de litros tratados pela concessão)",
+      "acesso_distritos_periferia": "Precário (fossa séptica rudimentar ou descarte direto)",
+      "diagnostico": "Embora a concessão privada tenha avançado no tratamento da sede urbana, o Distrito de União do Norte e bairros periféricos ainda sofrem com drenagem inadequada e esgoto a céu aberto nas chuvas."
+    }
+  },
+  "problemas_criticos": [
+    {
+      "id": "asfalto_lama_poeira",
+      "titulo": "Ruas no Barro e na Poeira (Abandono da Malha Urbana)",
+      "gravidade": "CRÍTICA",
+      "realidade": "Menos de 25% das vias urbanas dos bairros possuem pavimentação com drenagem pluvial e calçadas. Na estiagem, a poeira afeta idosos e crianças com doenças respiratórias; nas chuvas, vira atoleiro.",
+      "o_que_a_auditoria_revelou": "A prefeitura investe apenas R$ 71,79 por habitante/ano em urbanismo (contra R$ 668 de Guarantã do Norte). Os recursos municipais são desviados para gabinetes em vez do maquinário e massa asfáltica.",
+      "esta_sendo_resolvido": "Não pela prefeitura. As poucas frentes de asfalto dependem exclusivamente de convênios do Governo do Estado (MT-322 em União do Norte)."
+    },
+    {
+      "id": "saude_upa_desassistencia",
+      "titulo": "Crise na UPA e Desassistência Médica em União do Norte",
+      "gravidade": "CRÍTICA",
+      "realidade": "Falta recorrente de médicos especialistas, demora excessiva para regulação de leitos de UTI para Sinop ou Colíder, e dependência de transferências perigosas de ambulância por estradas vicinais.",
+      "o_que_a_auditoria_revelou": "O município contratou emergencialmente uma instituição terceirizada por mais de R$ 15 milhões, mas o Tribunal de Justiça bloqueou R$ 1,55M após flagrar pagamentos indevidos e despesas de outra cidade com a verba de Peixoto.",
+      "esta_sendo_resolvido": "Agravado. O prefeito foi afastado da gestão da Saúde pelo Tribunal de Justiça de MT e a fiscalização interna sofreu exonerações de servidores denunciantes."
+    },
+    {
+      "id": "isolamento_uniao_do_norte",
+      "titulo": "Distância e Isolamento do Distrito de União do Norte",
+      "gravidade": "ALTA",
+      "realidade": "Distante mais de 70 km da sede municipal, União do Norte é um dos maiores núcleos habitacionais do Nortão de MT, mas historicamente foi tratado como cidadão de segunda classe na destinação de secretarias e serviços.",
+      "o_que_a_auditoria_revelou": "Embora o Governo Estadual tenha aportado asfalto nas marginais da MT-322, os postos de saúde locais e os serviços administrativos ainda dependem de deslocamentos caros até a sede.",
+      "esta_sendo_resolvido": "Parcialmente. As obras estruturais rodoviárias avançaram por repasses estaduais, mas a estrutura básica municipal continua precária."
+    },
+    {
+      "id": "escolas_creches",
+      "titulo": "Crianças Fora da Escola e Creches Insuficientes",
+      "gravidade": "MÉDIA",
+      "realidade": "Aproximadamente 9% das crianças em idade escolar regular não frequentam o ensino formal, e mães trabalhadoras enfrentam fila de espera por vagas em creches municipais de período integral.",
+      "o_que_a_auditoria_revelou": "A prefeitura aplica apenas 25,91% em Educação, o mínimo exigido pela Constituição (25%), mantendo dezenas de milhões parados no cofre em vez de abrir novas turmas e reformar salas com ar-condicionado.",
+      "esta_sendo_resolvido": "Lento. Não há expansão expressiva de novas escolas municipais no ritmo do crescimento populacional."
+    }
+  ]
+}

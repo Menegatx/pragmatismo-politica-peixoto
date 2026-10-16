@@ -1,0 +1,86 @@
+{
+  "aviso_metodologico": "Este painel é estritamente imparcial e plural. Não dependemos de uma única emissora ou veículo. Cruzamos notícias de grandes redes nacionais, jornais jurídicos especializados, portais investigativos regionais e canais oficiais do Estado para mostrar tanto os avanços concretos quanto os escândalos e decisões da Justiça.",
+  "veiculos_mapeados": [
+    { "nome": "G1 MT / TV Centro América", "tipo": "Grande Mídia Nacional", "perfil": "Rede Globo / Cobertura Geral" },
+    { "nome": "Olhar Direto", "tipo": "Mídia Jurídica e Política Estadual", "perfil": "Especializado em Tribunais, TJ-MT e MPMT" },
+    { "nome": "MidiaNews", "tipo": "Portal de Notícias de MT", "perfil": "Cobertura Política e Tribunal de Contas (TCE-MT)" },
+    { "nome": "Notícia Exata / Nortão Agora", "tipo": "Imprensa Regional do Norte de MT", "perfil": "Foco no Vale do Peixoto e BR-163" },
+    { "nome": "Agência de Notícias de MT (Secom)", "tipo": "Comunicação Oficial", "perfil": "Repasses e Obras do Governo Estadual" }
+  ],
+  "noticias_positivas_avancos": [
+    {
+      "id": "noticia_asfalto_mt322",
+      "titulo": "Governo de MT e Município Asfaltam 7 km das Marginais da MT-322 em União do Norte",
+      "veiculo": "MidiaNews / Notícia Exata",
+      "data": "2025 / 2026",
+      "tipo": "INFRAESTRUTURA",
+      "resumo": "Investimento conjunto que tirou o núcleo urbano de União do Norte da poeira histórica e da lama durante o período chuvoso. A obra contemplou terraplanagem, drenagem profunda e sinalização viária.",
+      "avaliacao_pragmatica": "Avanço real e tangível para a população de União do Norte, viabilizado pela parceria com o Governo do Estado e bancada parlamentar."
+    },
+    {
+      "id": "noticia_saneamento_aegea",
+      "titulo": "Peixoto Avança no Saneamento e Trata Mais de 477 Milhões de Litros de Esgoto",
+      "veiculo": "Portal do Saneamento / Notícia Exata",
+      "data": "2025",
+      "tipo": "MEIO AMBIENTE & SAÚDE",
+      "resumo": "A concessionária Águas de Peixoto (Grupo Aegea) registrou tratamento médio de 22,5 litros de esgoto por segundo em 2025, reduzindo a contaminação de mananciais hídricos na área urbana da sede.",
+      "avaliacao_pragmatica": "Impacto positivo na saúde pública preventiva da sede, embora a rede ainda precise ser estendida para bairros periféricos e distritos."
+    },
+    {
+      "id": "noticia_uti_ambulancias",
+      "titulo": "Prefeitura Entrega Novas Ambulâncias e UTI Móvel para Reforçar Atendimento",
+      "veiculo": "Jornal MT Norte / Nortão Agora",
+      "data": "2025",
+      "tipo": "SAÚDE PÚBLICA",
+      "resumo": "Aquisição e entrega de veículos de resgate e suporte intensivo para atender emergências na sede e no distrito de União do Norte, facilitando transferências médicas para hospitais de referência.",
+      "avaliacao_pragmatica": "Ação indispensável devido à distância de 70 km até União do Norte e mais de 150 km até os leitos de alta complexidade em Colíder ou Sinop."
+    },
+    {
+      "id": "noticia_ponte_rio_pium",
+      "titulo": "Ponte de Concreto Sobre o Rio Pium Melhora Tráfego e Escoamento da Produção",
+      "veiculo": "Agência de Notícias de MT (Secom) / MidiaNews",
+      "data": "2024 / 2025",
+      "tipo": "AGRO & INFRAESTRUTURA",
+      "resumo": "Substituição de antiga ponte de madeira em rodovia vicinal por estrutura de concreto armado, garantindo travessia segura de ônibus escolares e caminhões de gado e grãos.",
+      "avaliacao_pragmatica": "Redução do custo logístico e prevenção de acidentes e interrupções frequentes em épocas de enxurrada."
+    }
+  ],
+  "noticias_escandalos_investigacoes": [
+    {
+      "id": "noticia_bloqueio_justica_saude",
+      "titulo": "Justiça Mantém Bloqueio de R$ 1,55 Milhão e Afastamento de Gestor da Saúde em Peixoto",
+      "veiculo": "G1 Mato Grosso / Olhar Direto",
+      "data": "Outubro / 2026",
+      "tipo": "CORRUPÇÃO & FRAUDE NA SAÚDE",
+      "resumo": "Decisão unânime da 3ª Câmara de Direito Público do Tribunal de Justiça de Mato Grosso (TJ-MT) manteve o bloqueio de R$ 1.553.123,94 e o afastamento da gestão da Saúde. A perícia do MPMT apontou desembolsos acima do teto contratual, pagamentos sem previsão e uso de verba de Peixoto para custear serviços em outro município.",
+      "avaliacao_pragmatica": "Fato gravíssimo auditado pela perícia judicial. Demonstra que a crise na UPA e nos postos não decorre de falta de verba, mas de sangria de recursos públicos em contratos terceirizados."
+    },
+    {
+      "id": "noticia_desmonte_fiscalizacao",
+      "titulo": "Servidora Que Denunciou Irregularidades na Saúde Foi Exonerada, Aponta Acórdão do TJ-MT",
+      "veiculo": "Olhar Direto",
+      "data": "2026",
+      "tipo": "DESMONTE DE CONTROLE INTERNO",
+      "resumo": "O processo judicial revelou que uma servidora que alertou sobre as anomalias nas medições da terceirização hospitalar foi sumariamente exonerada, enquanto pessoa vinculada à fiscalização do contrato sob suspeita foi promovida a secretária de Saúde.",
+      "avaliacao_pragmatica": "Retaliação direta contra quem fiscaliza o dinheiro público, configurando grave quebra de impessoalidade e moralidade administrativa."
+    },
+    {
+      "id": "noticia_emergencia_fabricada",
+      "titulo": "Procuradoria e MPMT Alertaram Que Emergência na Saúde Foi Fabricada por Desídia",
+      "veiculo": "G1 MT / Olhar Direto",
+      "data": "2025 / 2026",
+      "tipo": "DISPENSA INDEVIDA DE LICITAÇÃO",
+      "resumo": "Alertas prévios da Procuradoria do Município e do Ministério Público comprovaram que a contratação milionária sem licitação para gerir a UPA (Contrato nº 115/2025) decorreu de inércia deliberada da gestão para justificar a dispensa emergencial sem ampla concorrência.",
+      "avaliacao_pragmatica": "O mecanismo clássico de 'urgência fabricada' impede que empresas idôneas concorram por melhores preços, encarecendo os serviços para o cidadão."
+    },
+    {
+      "id": "noticia_tce_mpc_parecer_contrario",
+      "titulo": "Ministério Público de Contas Emite Parecer Contrário às Contas de Governo",
+      "veiculo": "MidiaNews / Tribunal de Contas (TCE-MT)",
+      "data": "2025 / 2026",
+      "tipo": "IRREGULARIDADE FISCAL",
+      "resumo": "Apesar do superávit contábil no banco, o MPC/TCE apontou distorções na execução orçamentária, descumprimento de metas sociais e ineficiência grave na aplicação dos recursos recolhidos da população.",
+      "avaliacao_pragmatica": "Superávit no banco com posto de saúde sem médico e rua esburacada é sinal de gestão ineficiente, e não de economia louvável."
+    }
+  ]
+}
