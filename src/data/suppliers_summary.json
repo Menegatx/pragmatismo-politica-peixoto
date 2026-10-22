@@ -54,8 +54,8 @@
       "total_valor": 4103580.0,
       "total_contratos": 2,
       "setores": [
-        "Obras e Infraestrutura",
-        "Administração Geral & Outros"
+        "Administração Geral & Outros",
+        "Obras e Infraestrutura"
       ],
       "dispensas": 1,
       "contratos": [
@@ -246,9 +246,9 @@
       "total_valor": 1073814.8599999999,
       "total_contratos": 5,
       "setores": [
+        "Administração Geral & Outros",
         "Saúde",
-        "Educação",
-        "Administração Geral & Outros"
+        "Educação"
       ],
       "dispensas": 1,
       "contratos": [
@@ -568,8 +568,8 @@
       "total_valor": 529300.0,
       "total_contratos": 3,
       "setores": [
-        "Eventos & Festividades",
-        "Educação"
+        "Educação",
+        "Eventos & Festividades"
       ],
       "dispensas": 0,
       "contratos": [
@@ -1962,8 +1962,8 @@
       "total_valor": 45542.399999999994,
       "total_contratos": 5,
       "setores": [
-        "Saúde",
-        "Administração Geral & Outros"
+        "Administração Geral & Outros",
+        "Saúde"
       ],
       "dispensas": 1,
       "contratos": [
@@ -3362,8 +3362,8 @@
       "total_valor": 4932.26,
       "total_contratos": 2,
       "setores": [
-        "Saúde",
-        "Administração Geral & Outros"
+        "Administração Geral & Outros",
+        "Saúde"
       ],
       "dispensas": 1,
       "contratos": [
