@@ -128,8 +128,8 @@
       "total_valor": 2468144.73,
       "total_contratos": 4,
       "setores": [
-        "Administração Geral & Outros",
         "Saneamento & Limpeza",
+        "Administração Geral & Outros",
         "Educação"
       ],
       "dispensas": 0,
@@ -660,8 +660,8 @@
       "total_valor": 460492.80000000005,
       "total_contratos": 2,
       "setores": [
-        "Administração Geral & Outros",
-        "Saneamento & Limpeza"
+        "Saneamento & Limpeza",
+        "Administração Geral & Outros"
       ],
       "dispensas": 0,
       "contratos": [
