@@ -246,9 +246,9 @@
       "total_valor": 1073814.8599999999,
       "total_contratos": 5,
       "setores": [
-        "Saúde",
         "Administração Geral & Outros",
-        "Educação"
+        "Educação",
+        "Saúde"
       ],
       "dispensas": 1,
       "contratos": [
@@ -1962,8 +1962,8 @@
       "total_valor": 45542.399999999994,
       "total_contratos": 5,
       "setores": [
-        "Saúde",
-        "Administração Geral & Outros"
+        "Administração Geral & Outros",
+        "Saúde"
       ],
       "dispensas": 1,
       "contratos": [
@@ -2051,8 +2051,8 @@
       "total_valor": 43000.0,
       "total_contratos": 2,
       "setores": [
-        "Saúde",
-        "Administração Geral & Outros"
+        "Administração Geral & Outros",
+        "Saúde"
       ],
       "dispensas": 1,
       "contratos": [
@@ -3362,8 +3362,8 @@
       "total_valor": 4932.26,
       "total_contratos": 2,
       "setores": [
-        "Saúde",
-        "Administração Geral & Outros"
+        "Administração Geral & Outros",
+        "Saúde"
       ],
       "dispensas": 1,
       "contratos": [
