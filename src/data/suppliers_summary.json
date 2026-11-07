@@ -1,7 +1,2094 @@
 {
-  "total_contratado": 0,
-  "total_fornecedores": 0,
-  "hhi_index": 0,
-  "top10_share": 0,
-  "suppliers": []
+  "total_contratado": 53475008.64,
+  "total_fornecedores": 147,
+  "hhi_index": 1093.37,
+  "top10_share": 67.13,
+  "suppliers": [
+    {
+      "cnpj_cpf": "31827187000125",
+      "razao_social": "ASSOCIACAO FILANTROPICA DE SAUDE SANTA MARIA",
+      "total_valor": 15704603.88,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 1,
+      "contratos": [
+        "03238631000131-2-000125/2025"
+      ],
+      "share_percent": 29.36811845272476
+    },
+    {
+      "cnpj_cpf": "09438182000151",
+      "razao_social": "MADELOTTO MADEIRAS INDUSTRIA E COMERCIO LTDA",
+      "total_valor": 4103580.0,
+      "total_contratos": 2,
+      "setores": [
+        "Obras e Infraestrutura",
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 1,
+      "contratos": [
+        "03238631000131-2-000006/2025",
+        "03238631000131-2-000115/2025"
+      ],
+      "share_percent": 7.673827652138926
+    },
+    {
+      "cnpj_cpf": "27336996000167",
+      "razao_social": "PAMON CONSTRUCOES LTDA",
+      "total_valor": 4000000.0,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000127/2025"
+      ],
+      "share_percent": 7.480129693720046
+    },
+    {
+      "cnpj_cpf": "36521285000153",
+      "razao_social": "VDS COMERCIO DE MADEIRAS E MATERIAIS PARA CONSTRUCAO LTDA",
+      "total_valor": 2854320.0,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000116/2025"
+      ],
+      "share_percent": 5.33767094684475
+    },
+    {
+      "cnpj_cpf": "47611383000289",
+      "razao_social": "HP CONSTRUTORA E EMPREENDIMENTOS LTDA",
+      "total_valor": 2840000.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000024/2024"
+      ],
+      "share_percent": 5.3108920825412325
+    },
+    {
+      "cnpj_cpf": "05121635000160",
+      "razao_social": "R C MACCARI",
+      "total_valor": 1591845.92,
+      "total_contratos": 1,
+      "setores": [
+        "Educação"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000001/2025"
+      ],
+      "share_percent": 2.976803483504776
+    },
+    {
+      "cnpj_cpf": "18009871000131",
+      "razao_social": "PANTANAL GESTAO E TECNOLOGIA LTDA",
+      "total_valor": 1500000.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saneamento & Limpeza"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000003/2024"
+      ],
+      "share_percent": 2.8050486351450172
+    },
+    {
+      "cnpj_cpf": "37134677000122",
+      "razao_social": "CAMPOS SERVICOS DE SAÚDE LTDA",
+      "total_valor": 1176001.25,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000130/2025"
+      ],
+      "share_percent": 2.199160467494223
+    },
+    {
+      "cnpj_cpf": "18942774000105",
+      "razao_social": "PRADO MEDICAMENTOS E SERVICOS LTDA",
+      "total_valor": 1073814.8599999999,
+      "total_contratos": 5,
+      "setores": [
+        "Saúde",
+        "Administração Geral & Outros",
+        "Educação"
+      ],
+      "dispensas": 1,
+      "contratos": [
+        "03238631000131-2-000011/2024",
+        "03238631000131-2-000002/2025",
+        "03238631000131-2-000013/2025",
+        "03238631000131-2-000054/2025",
+        "03238631000131-2-000085/2025"
+      ],
+      "share_percent": 2.008068604960958
+    },
+    {
+      "cnpj_cpf": "46695791000112",
+      "razao_social": "MEDFACIL SERVICOS DE SAUDE LTDA",
+      "total_valor": 1056001.25,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000135/2025"
+      ],
+      "share_percent": 1.9747565766826212
+    },
+    {
+      "cnpj_cpf": "33458003000122",
+      "razao_social": "AVIVE GESTAO DE SERVICOS MEDICOS LTDA.",
+      "total_valor": 1056001.25,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000136/2025"
+      ],
+      "share_percent": 1.9747565766826212
+    },
+    {
+      "cnpj_cpf": "53383656000105",
+      "razao_social": "I C P SERVICOS MEDICOS LTDA",
+      "total_valor": 936001.25,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000131/2025"
+      ],
+      "share_percent": 1.7503526858710199
+    },
+    {
+      "cnpj_cpf": "03411908000186",
+      "razao_social": "GREEN FARMACEUTICA LTDA",
+      "total_valor": 845750.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000012/2024"
+      ],
+      "share_percent": 1.5815799221159321
+    },
+    {
+      "cnpj_cpf": "19480903000145",
+      "razao_social": "IAGO HENRIQUE PERES CAMPARONI EIRELI-ME",
+      "total_valor": 790800.0,
+      "total_contratos": 1,
+      "setores": [
+        "Educação"
+      ],
+      "dispensas": 1,
+      "contratos": [
+        "03238631000131-2-000117/2025"
+      ],
+      "share_percent": 1.478821640448453
+    },
+    {
+      "cnpj_cpf": "55191360000100",
+      "razao_social": "SCARPIN EMBALAGENS E ARTIGOS DE FESTAS LTDA",
+      "total_valor": 785432.9,
+      "total_contratos": 1,
+      "setores": [
+        "Educação"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000005/2025"
+      ],
+      "share_percent": 1.4687849894286618
+    },
+    {
+      "cnpj_cpf": "08048153000110",
+      "razao_social": "GCE COMERCIO INTERNACIONAL DE PAPEIS LTDA",
+      "total_valor": 768504.0,
+      "total_contratos": 2,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000031/2025",
+        "03238631000131-2-000037/2025"
+      ],
+      "share_percent": 1.4371273975356575
+    },
+    {
+      "cnpj_cpf": "08775117000159",
+      "razao_social": "MOLINA GAS LTDA",
+      "total_valor": 714963.6,
+      "total_contratos": 2,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000029/2025",
+        "03238631000131-2-000035/2025"
+      ],
+      "share_percent": 1.3370051135722454
+    },
+    {
+      "cnpj_cpf": "04254526000159",
+      "razao_social": "LINERBOOK - EDITORA GRAFICA E PROJETOS EDUCACIONAIS LTDA",
+      "total_valor": 648000.0,
+      "total_contratos": 1,
+      "setores": [
+        "Educação"
+      ],
+      "dispensas": 1,
+      "contratos": [
+        "03238631000131-2-000004/2024"
+      ],
+      "share_percent": 1.2117810103826474
+    },
+    {
+      "cnpj_cpf": "17987379000178",
+      "razao_social": "RR SERVICOS TERCEIRIZADOS LTDA",
+      "total_valor": 577375.0,
+      "total_contratos": 2,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000062/2025",
+        "03238631000131-2-000139/2025"
+      ],
+      "share_percent": 1.0797099704779027
+    },
+    {
+      "cnpj_cpf": "01897230000168",
+      "razao_social": "IRINEU TONIETO SCALABRIN LTDA",
+      "total_valor": 529300.0,
+      "total_contratos": 3,
+      "setores": [
+        "Eventos & Festividades",
+        "Educação"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000057/2025",
+        "03238631000131-2-000113/2025",
+        "03238631000131-2-000118/2025"
+      ],
+      "share_percent": 0.9898081617215051
+    },
+    {
+      "cnpj_cpf": "28163862000154",
+      "razao_social": "CLASSICAL HOLDING INTERMEDIACAO DE NEGOCIOS LTDA",
+      "total_valor": 500000.0,
+      "total_contratos": 1,
+      "setores": [
+        "Eventos & Festividades"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000060/2025"
+      ],
+      "share_percent": 0.9350162117150057
+    },
+    {
+      "cnpj_cpf": "21227039000116",
+      "razao_social": "LIFE CENTER COMÉRCIO E DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+      "total_valor": 494004.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000013/2024"
+      ],
+      "share_percent": 0.9238034973041194
+    },
+    {
+      "cnpj_cpf": "02136343000103",
+      "razao_social": "ASSOC DE MINE E PEQ AGRIC DO PROJ ASSENT CACHIMBO",
+      "total_valor": 438361.7,
+      "total_contratos": 1,
+      "setores": [
+        "Educação"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000032/2025"
+      ],
+      "share_percent": 0.8197505921898998
+    },
+    {
+      "cnpj_cpf": "27679382000188",
+      "razao_social": "AM MOREIRA GONCALVES E CIA LTDA",
+      "total_valor": 418740.0,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000147/2025"
+      ],
+      "share_percent": 0.7830573769870829
+    },
+    {
+      "cnpj_cpf": "22138129000101",
+      "razao_social": "NAIARA AZEVEDO PRODUCOES ARTISTICAS LTDA",
+      "total_valor": 400000.0,
+      "total_contratos": 1,
+      "setores": [
+        "Eventos & Festividades"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000058/2025"
+      ],
+      "share_percent": 0.7480129693720046
+    },
+    {
+      "cnpj_cpf": "59476851000158",
+      "razao_social": "PW SOUND LTDA",
+      "total_valor": 394894.5,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000110/2025"
+      ],
+      "share_percent": 0.7384655188341827
+    },
+    {
+      "cnpj_cpf": "06936513000195",
+      "razao_social": "AMPLA CONSTRUCOES E EMPREENDIMENTOS LTDA",
+      "total_valor": 392503.89,
+      "total_contratos": 1,
+      "setores": [
+        "Obras e Infraestrutura"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000009/2024"
+      ],
+      "share_percent": 0.7339950006224066
+    },
+    {
+      "cnpj_cpf": "24702037000715",
+      "razao_social": "COOPERATIVA AGROPECUARIA MISTA TERRANOVA LTDA",
+      "total_valor": 358472.2,
+      "total_contratos": 1,
+      "setores": [
+        "Educação"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000033/2025"
+      ],
+      "share_percent": 0.6703546368982878
+    },
+    {
+      "cnpj_cpf": "49803998000151",
+      "razao_social": "ODONTOMED DISTRIBUIDORA DE MATERIAIS E MEDICAMENTOS HOSPITARES E ODONTOLOGICOS LTDA",
+      "total_valor": 335985.7,
+      "total_contratos": 2,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 1,
+      "contratos": [
+        "03238631000131-2-000053/2025",
+        "03238631000131-2-000091/2025"
+      ],
+      "share_percent": 0.6283041528088288
+    },
+    {
+      "cnpj_cpf": "20357366000120",
+      "razao_social": "CYAN PAPELARIA E MATERIAIS DE INFORMATICA LTDA",
+      "total_valor": 294712.32999999996,
+      "total_contratos": 2,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000015/2024",
+        "03238631000131-2-000015/2025"
+      ],
+      "share_percent": 0.5511216126846052
+    },
+    {
+      "cnpj_cpf": "08907300000160",
+      "razao_social": "C & C PRODUCOES E SHOWS LTDA",
+      "total_valor": 270000.0,
+      "total_contratos": 1,
+      "setores": [
+        "Eventos & Festividades"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000059/2025"
+      ],
+      "share_percent": 0.504908754326103
+    },
+    {
+      "cnpj_cpf": "13657269000197",
+      "razao_social": "OXIGENIO DOIS IRMAOS LTDA",
+      "total_valor": 268144.5,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000027/2025"
+      ],
+      "share_percent": 0.5014389091644287
+    },
+    {
+      "cnpj_cpf": "22316617000153",
+      "razao_social": "MAA PRODUCOES ARTISTICAS LTDA",
+      "total_valor": 233000.0,
+      "total_contratos": 1,
+      "setores": [
+        "Eventos & Festividades"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000055/2025"
+      ],
+      "share_percent": 0.43571755465919265
+    },
+    {
+      "cnpj_cpf": "08111952000194",
+      "razao_social": "M & P FERREIRA PRODUCOES LTDA",
+      "total_valor": 230000.0,
+      "total_contratos": 1,
+      "setores": [
+        "Eventos & Festividades"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000005/2024"
+      ],
+      "share_percent": 0.4301074573889026
+    },
+    {
+      "cnpj_cpf": "18047657000170",
+      "razao_social": "ALESSANDRA B. TONIETTI INSTRUMENTOS MUSICAIS",
+      "total_valor": 226044.1,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000103/2025"
+      ],
+      "share_percent": 0.4227097961250558
+    },
+    {
+      "cnpj_cpf": "19454422000165",
+      "razao_social": "SANTOS E BENASSI LTDA",
+      "total_valor": 218592.0,
+      "total_contratos": 1,
+      "setores": [
+        "Assessoria & Consultorias"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000044/2025"
+      ],
+      "share_percent": 0.4087741275024131
+    },
+    {
+      "cnpj_cpf": "51647234000166",
+      "razao_social": "FC DISTRIBUIDORA TEXTIL LTDA",
+      "total_valor": 206433.25,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000020/2024"
+      ],
+      "share_percent": 0.3860368707740334
+    },
+    {
+      "cnpj_cpf": "03696005000199",
+      "razao_social": "G. H. M. PASSANELI & CIA LTDA",
+      "total_valor": 206125.0,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000061/2025"
+      ],
+      "share_percent": 0.3854604332795111
+    },
+    {
+      "cnpj_cpf": "34125616000100",
+      "razao_social": "JOAO VICTOR FAZIO RIBEIRO LTDA",
+      "total_valor": 180000.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000133/2025"
+      ],
+      "share_percent": 0.3366058362174021
+    },
+    {
+      "cnpj_cpf": "19496182000161",
+      "razao_social": "CAROLINE DISTRIBUIDORA DE MOVEIS E ARTIGOS DE DECORAÇÃO LTDA",
+      "total_valor": 177752.55,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000023/2024"
+      ],
+      "share_percent": 0.33240303184736425
+    },
+    {
+      "cnpj_cpf": "09591166000102",
+      "razao_social": "ORGANIZACAO AMIGOS DO MEIO AMBIENTE E DO SER HUMANO - OAMASH",
+      "total_valor": 162000.0,
+      "total_contratos": 2,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 1,
+      "contratos": [
+        "03238631000131-2-000038/2025",
+        "03238631000131-2-000137/2025"
+      ],
+      "share_percent": 0.30294525259566185
+    },
+    {
+      "cnpj_cpf": "01474713114",
+      "razao_social": "JULIANA RAMOS DE OLIVEIRA",
+      "total_valor": 145728.0,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000041/2025"
+      ],
+      "share_percent": 0.2725160850016087
+    },
+    {
+      "cnpj_cpf": "22807196000163",
+      "razao_social": "SCHNEIDER E MUNHOZ ADVOGADOS ASSOCIADOS",
+      "total_valor": 144000.0,
+      "total_contratos": 1,
+      "setores": [
+        "Assessoria & Consultorias"
+      ],
+      "dispensas": 1,
+      "contratos": [
+        "03238631000131-2-000001/2024"
+      ],
+      "share_percent": 0.2692846689739216
+    },
+    {
+      "cnpj_cpf": "45492077000164",
+      "razao_social": "OTZI METALURGICA LTDA",
+      "total_valor": 126000.0,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000126/2025"
+      ],
+      "share_percent": 0.23562408535218143
+    },
+    {
+      "cnpj_cpf": "12212231000148",
+      "razao_social": "H. SILVA OLIVEIRA",
+      "total_valor": 120000.0,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000042/2025"
+      ],
+      "share_percent": 0.22440389081160136
+    },
+    {
+      "cnpj_cpf": "29301296000162",
+      "razao_social": "E&E PRODUCOES E PARTICIPACOES LTDA",
+      "total_valor": 120000.0,
+      "total_contratos": 1,
+      "setores": [
+        "Eventos & Festividades"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000056/2025"
+      ],
+      "share_percent": 0.22440389081160136
+    },
+    {
+      "cnpj_cpf": "11682717000187",
+      "razao_social": "A.F. AYALA - CLINICA MEDICA - ME",
+      "total_valor": 120000.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000129/2025"
+      ],
+      "share_percent": 0.22440389081160136
+    },
+    {
+      "cnpj_cpf": "55676751000114",
+      "razao_social": "A. C. DONIN LTDA",
+      "total_valor": 120000.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000132/2025"
+      ],
+      "share_percent": 0.22440389081160136
+    },
+    {
+      "cnpj_cpf": "19347324000129",
+      "razao_social": "JOAO CANDIDO DA SILVA",
+      "total_valor": 120000.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000134/2025"
+      ],
+      "share_percent": 0.22440389081160136
+    },
+    {
+      "cnpj_cpf": "32635445000134",
+      "razao_social": "VALE COMERCIO DE PRODUTOS MEDICOS E HOSPITALARES LTDA",
+      "total_valor": 103875.2,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000102/2025"
+      ],
+      "share_percent": 0.19424999199027712
+    },
+    {
+      "cnpj_cpf": "19391064000199",
+      "razao_social": "LUVERMED DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+      "total_valor": 101055.4,
+      "total_contratos": 4,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 1,
+      "contratos": [
+        "03238631000131-2-000030/2024",
+        "03238631000131-2-000052/2025",
+        "03238631000131-2-000086/2025",
+        "03238631000131-2-000149/2025"
+      ],
+      "share_percent": 0.18897687456268916
+    },
+    {
+      "cnpj_cpf": "12146604000120",
+      "razao_social": "AEROMIX AGENCIA DE VIAGENS E TURISMO LTDA",
+      "total_valor": 99567.0,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000025/2024"
+      ],
+      "share_percent": 0.18619351830365596
+    },
+    {
+      "cnpj_cpf": "17338355000198",
+      "razao_social": "HOTEL E POUSADA PONTUAL LTDA ME",
+      "total_valor": 95520.0,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000128/2025"
+      ],
+      "share_percent": 0.1786254970860347
+    },
+    {
+      "cnpj_cpf": "34223536000198",
+      "razao_social": "LICITE SAUDE COMERCIO DE PRODUTOS HOSPITALARES LTDA",
+      "total_valor": 95473.8,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000088/2025"
+      ],
+      "share_percent": 0.1785391015880722
+    },
+    {
+      "cnpj_cpf": "33664004000123",
+      "razao_social": "ELZA REZER FRUTUOSO & CIA LTDA",
+      "total_valor": 95407.4,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000014/2024"
+      ],
+      "share_percent": 0.17841493143515647
+    },
+    {
+      "cnpj_cpf": "50429806000178",
+      "razao_social": "LIMIT COMERCIAL LTDA",
+      "total_valor": 91650.0,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000017/2024"
+      ],
+      "share_percent": 0.17138847160736054
+    },
+    {
+      "cnpj_cpf": "12770919000143",
+      "razao_social": "W3 COMERCIAL IMPORTADORA E EXPORTADORA LTDA",
+      "total_valor": 71190.0,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000107/2025"
+      ],
+      "share_percent": 0.1331276082239825
+    },
+    {
+      "cnpj_cpf": "44686737000185",
+      "razao_social": "LR & G MUSICA LTDA",
+      "total_valor": 70000.0,
+      "total_contratos": 1,
+      "setores": [
+        "Eventos & Festividades"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000006/2024"
+      ],
+      "share_percent": 0.1309022696401008
+    },
+    {
+      "cnpj_cpf": "28520373000102",
+      "razao_social": "MADEIREIRA BRASIL LTDA",
+      "total_valor": 67500.0,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000114/2025"
+      ],
+      "share_percent": 0.12622718858152576
+    },
+    {
+      "cnpj_cpf": "07515486000140",
+      "razao_social": "SILVA & GRANETTO LTDA",
+      "total_valor": 64763.42,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000016/2025"
+      ],
+      "share_percent": 0.12110969525221567
+    },
+    {
+      "cnpj_cpf": "60546801003102",
+      "razao_social": "BETUNEL INDUSTRIA E COMERCIO S/A",
+      "total_valor": 61620.0,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000039/2025"
+      ],
+      "share_percent": 0.11523139793175731
+    },
+    {
+      "cnpj_cpf": "27724599000162",
+      "razao_social": "EMPREMED SERVICOS MEDICOS LTDA",
+      "total_valor": 60000.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000144/2025"
+      ],
+      "share_percent": 0.11220194540580068
+    },
+    {
+      "cnpj_cpf": "59125190000116",
+      "razao_social": "RTPR SERVICOS MEDICOS LTDA",
+      "total_valor": 60000.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000145/2025"
+      ],
+      "share_percent": 0.11220194540580068
+    },
+    {
+      "cnpj_cpf": "11491749000103",
+      "razao_social": "SONAR EDITORA E COMERCIO DE LIVROS LTDA",
+      "total_valor": 57980.0,
+      "total_contratos": 1,
+      "setores": [
+        "Educação"
+      ],
+      "dispensas": 1,
+      "contratos": [
+        "03238631000131-2-000010/2024"
+      ],
+      "share_percent": 0.10842447991047206
+    },
+    {
+      "cnpj_cpf": "46700625000167",
+      "razao_social": "BR3 COMERCIO E DISTRIBUICAO LTDA",
+      "total_valor": 55849.35,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000109/2025"
+      ],
+      "share_percent": 0.1044400953274909
+    },
+    {
+      "cnpj_cpf": "12559500000147",
+      "razao_social": "GS COMERCIO DE INSTRUMENTOS MUSICAIS LTDA",
+      "total_valor": 48991.5,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000112/2025"
+      ],
+      "share_percent": 0.09161569347247141
+    },
+    {
+      "cnpj_cpf": "19509699000148",
+      "razao_social": "FERNANDO ROBERTO FOLLMANN",
+      "total_valor": 46200.0,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000002/2024"
+      ],
+      "share_percent": 0.08639549796246652
+    },
+    {
+      "cnpj_cpf": "37676047000180",
+      "razao_social": "ROSAFARM DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+      "total_valor": 45597.68,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000098/2025"
+      ],
+      "share_percent": 0.08526914003318617
+    },
+    {
+      "cnpj_cpf": "17286917000105",
+      "razao_social": "FACILITA - GESTAO PUBLICA BRASIL LTDA",
+      "total_valor": 45000.0,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 1,
+      "contratos": [
+        "03238631000131-2-000043/2025"
+      ],
+      "share_percent": 0.08415145905435052
+    },
+    {
+      "cnpj_cpf": "22283196000101",
+      "razao_social": "BH LABORATORIOS LTDA",
+      "total_valor": 44791.25,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 1,
+      "contratos": [
+        "03238631000131-2-000007/2024"
+      ],
+      "share_percent": 0.0837610897859595
+    },
+    {
+      "cnpj_cpf": "37247859000100",
+      "razao_social": "37.247.859 RAIMUNDO ALVES DA SILVA",
+      "total_valor": 35952.0,
+      "total_contratos": 2,
+      "setores": [
+        "Saneamento & Limpeza"
+      ],
+      "dispensas": 2,
+      "contratos": [
+        "03238631000131-2-000028/2025",
+        "03238631000131-2-000040/2025"
+      ],
+      "share_percent": 0.06723140568715577
+    },
+    {
+      "cnpj_cpf": "25106470000165",
+      "razao_social": "ROYAL MED HOSPITALAR LTDA",
+      "total_valor": 35307.25,
+      "total_contratos": 2,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000032/2024",
+        "03238631000131-2-000089/2025"
+      ],
+      "share_percent": 0.06602570228214927
+    },
+    {
+      "cnpj_cpf": "02950701000117",
+      "razao_social": "COOPERATIVA DE DESENVOLVIMENTO AGRO-INDUSTRIAL DE TAPURAH LTDA - COAIT",
+      "total_valor": 35000.0,
+      "total_contratos": 1,
+      "setores": [
+        "Educação"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000034/2025"
+      ],
+      "share_percent": 0.0654511348200504
+    },
+    {
+      "cnpj_cpf": "45333990000118",
+      "razao_social": "45.333.990 JALLS FRANSUELIO DOS SANTOS MASCARENHAS",
+      "total_valor": 34216.0,
+      "total_contratos": 1,
+      "setores": [
+        "Educação"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000046/2025"
+      ],
+      "share_percent": 0.06398502940008127
+    },
+    {
+      "cnpj_cpf": "53502262000110",
+      "razao_social": "53.502.262 MARIA DE FATIMA MORENO",
+      "total_valor": 34216.0,
+      "total_contratos": 1,
+      "setores": [
+        "Educação"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000047/2025"
+      ],
+      "share_percent": 0.06398502940008127
+    },
+    {
+      "cnpj_cpf": "14918669000171",
+      "razao_social": "ELOANGELA ANDRESSA FILIPIN BENCKE",
+      "total_valor": 34216.0,
+      "total_contratos": 1,
+      "setores": [
+        "Educação"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000048/2025"
+      ],
+      "share_percent": 0.06398502940008127
+    },
+    {
+      "cnpj_cpf": "43252921000154",
+      "razao_social": "RAIMUNDO FRANCISCO NETO DE SOUSA 63223929134",
+      "total_valor": 34216.0,
+      "total_contratos": 1,
+      "setores": [
+        "Educação"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000049/2025"
+      ],
+      "share_percent": 0.06398502940008127
+    },
+    {
+      "cnpj_cpf": "44127150000136",
+      "razao_social": "ASTRA MEDICAL SUPPLY PRODUTOS MEDICOS E HOSPITALARES LTDA",
+      "total_valor": 33599.7,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000092/2025"
+      ],
+      "share_percent": 0.06283252841752135
+    },
+    {
+      "cnpj_cpf": "54843246000154",
+      "razao_social": "MED OESTE DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+      "total_valor": 33510.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000100/2025"
+      ],
+      "share_percent": 0.06266478650913967
+    },
+    {
+      "cnpj_cpf": "51740794000160",
+      "razao_social": "YNEMED PRODUTOS MEDICOS E HOSPITALARES LTDA",
+      "total_valor": 31925.6,
+      "total_contratos": 4,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 1,
+      "contratos": [
+        "03238631000131-2-000036/2024",
+        "03238631000131-2-000090/2025",
+        "03238631000131-2-000122/2025",
+        "03238631000131-2-000143/2025"
+      ],
+      "share_percent": 0.05970190713745717
+    },
+    {
+      "cnpj_cpf": "28857335000140",
+      "razao_social": "MAXIMA DENTAL IMPORTACAO, EXPORTACAO E COMERCIO DE PRODUTOS ODONTOLOGICOS LTDA",
+      "total_valor": 30411.64,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000033/2024"
+      ],
+      "share_percent": 0.056870752849681065
+    },
+    {
+      "cnpj_cpf": "28480081000193",
+      "razao_social": "INOVA LASER E COMUNICAÇÃO VISUAL LTDA",
+      "total_valor": 30093.75,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000009/2025"
+      ],
+      "share_percent": 0.05627628824259691
+    },
+    {
+      "cnpj_cpf": "57650919000148",
+      "razao_social": "COMERCIAL COSTA FERREIRA LTDA.",
+      "total_valor": 29786.78,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000010/2025"
+      ],
+      "share_percent": 0.0557022443895766
+    },
+    {
+      "cnpj_cpf": "23345826000198",
+      "razao_social": "A DE CASTRO RODRIGUES ALVORADA HOTEL",
+      "total_valor": 28546.0,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000008/2024"
+      ],
+      "share_percent": 0.053381945559233104
+    },
+    {
+      "cnpj_cpf": "93577427000138",
+      "razao_social": "SSC SOLUCOES EM FORNECIMENTO DE MERCADORIAS LTDA",
+      "total_valor": 27322.14,
+      "total_contratos": 2,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000011/2025",
+        "03238631000131-2-000017/2025"
+      ],
+      "share_percent": 0.05109328767749405
+    },
+    {
+      "cnpj_cpf": "34637297000112",
+      "razao_social": "LIFE CARE DIAGNOSTICOS LTDA",
+      "total_valor": 26539.6,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000148/2025"
+      ],
+      "share_percent": 0.04962991250486312
+    },
+    {
+      "cnpj_cpf": "33210290000157",
+      "razao_social": "FRANCIELLY TAYNARA SILVA CAMPOS",
+      "total_valor": 24711.7,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000016/2024"
+      ],
+      "share_percent": 0.04621168023807542
+    },
+    {
+      "cnpj_cpf": "28871583000145",
+      "razao_social": "MARIA SOUZA RAMOS HOTEL",
+      "total_valor": 24000.0,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000138/2025"
+      ],
+      "share_percent": 0.04488077816232028
+    },
+    {
+      "cnpj_cpf": "45040759000136",
+      "razao_social": "SILVA E SILVA DISTRIBUICAO DE MATERIAL PARA SAUDE LTDA",
+      "total_valor": 23345.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000152/2025"
+      ],
+      "share_percent": 0.04365590692497361
+    },
+    {
+      "cnpj_cpf": "22847311000123",
+      "razao_social": "MEGA MED PRODUTOS MEDICOS E HOSPITALARES LTDA",
+      "total_valor": 22509.2,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000150/2025"
+      ],
+      "share_percent": 0.042092933825470816
+    },
+    {
+      "cnpj_cpf": "44022805000101",
+      "razao_social": "TERRY KISSER RITZEL",
+      "total_valor": 22368.8,
+      "total_contratos": 2,
+      "setores": [
+        "Educação"
+      ],
+      "dispensas": 1,
+      "contratos": [
+        "03238631000131-2-000030/2025",
+        "03238631000131-2-000036/2025"
+      ],
+      "share_percent": 0.04183038127322124
+    },
+    {
+      "cnpj_cpf": "04159159000104",
+      "razao_social": "CIRENE MASCOLLI BENANTE",
+      "total_valor": 22112.2,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000104/2025"
+      ],
+      "share_percent": 0.0413505309533691
+    },
+    {
+      "cnpj_cpf": "05895525000156",
+      "razao_social": "OBJETIVA PRODUTOS E SERVICOS P/ LABORATORIOS LTDA",
+      "total_valor": 17440.71,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000151/2025"
+      ],
+      "share_percent": 0.032614693187640036
+    },
+    {
+      "cnpj_cpf": "06065614000138",
+      "razao_social": "SUPERMEDICA DISTRIBUIDORA HOSPITALAR LTDA",
+      "total_valor": 16600.7,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000026/2024"
+      ],
+      "share_percent": 0.031043847251634595
+    },
+    {
+      "cnpj_cpf": "17119770000150",
+      "razao_social": "DANCIN INDUSTRIA E COMERCIO DE CONFECCOES LTDA",
+      "total_valor": 15400.0,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 1,
+      "contratos": [
+        "03238631000131-2-000141/2025"
+      ],
+      "share_percent": 0.028798499320822176
+    },
+    {
+      "cnpj_cpf": "23228076000174",
+      "razao_social": "CMH - CENTRAL DE MEDICAMENTOS HOSPITALARES LTDA",
+      "total_valor": 15250.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000101/2025"
+      ],
+      "share_percent": 0.028517994457307676
+    },
+    {
+      "cnpj_cpf": "02441945000174",
+      "razao_social": "TRAUM ARTIGOS ESPORTIVOS LTDA",
+      "total_valor": 14816.75,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000020/2025"
+      ],
+      "share_percent": 0.02770780290985662
+    },
+    {
+      "cnpj_cpf": "51995377000240",
+      "razao_social": "M. DA GUIA FERREIRA MENDES LTDA",
+      "total_valor": 14752.85,
+      "total_contratos": 2,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000008/2025",
+        "03238631000131-2-000018/2025"
+      ],
+      "share_percent": 0.027588307837999444
+    },
+    {
+      "cnpj_cpf": "19770562000142",
+      "razao_social": "SUADENTAL PRODUTOS ODONTOLOGICOS LTDA",
+      "total_valor": 13995.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000142/2025"
+      ],
+      "share_percent": 0.026171103765903012
+    },
+    {
+      "cnpj_cpf": "39610184000147",
+      "razao_social": "CIRURGICA ASSIS DISTRIBUIDORA DE PRODUTOS PARA SAUDE LTDA",
+      "total_valor": 13905.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000097/2025"
+      ],
+      "share_percent": 0.02600280084779431
+    },
+    {
+      "cnpj_cpf": "02545557000133",
+      "razao_social": "COMERCIAL LUAR LTDA",
+      "total_valor": 13056.5,
+      "total_contratos": 1,
+      "setores": [
+        "Educação"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000003/2025"
+      ],
+      "share_percent": 0.024416078336513946
+    },
+    {
+      "cnpj_cpf": "55007465000166",
+      "razao_social": "SANTANA FARMA DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+      "total_valor": 13050.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000096/2025"
+      ],
+      "share_percent": 0.02440392312576165
+    },
+    {
+      "cnpj_cpf": "26527362000129",
+      "razao_social": "ESFERA MASTER COMERCIAL LTDA",
+      "total_valor": 12854.91,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 1,
+      "contratos": [
+        "03238631000131-2-000119/2025"
+      ],
+      "share_percent": 0.024039098500274688
+    },
+    {
+      "cnpj_cpf": "31401798000107",
+      "razao_social": "DENTAL BH BRASIL COMERCIO DE PRODUTOS ODONTO-MEDICO-HOSPITALAR LTDA",
+      "total_valor": 11625.95,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000038/2024"
+      ],
+      "share_percent": 0.021740903453176145
+    },
+    {
+      "cnpj_cpf": "43044418000103",
+      "razao_social": "M TESTA ATACADO LTDA",
+      "total_valor": 11569.87,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000022/2025"
+      ],
+      "share_percent": 0.02163603203487019
+    },
+    {
+      "cnpj_cpf": "52331094000185",
+      "razao_social": "D.E.A CALCADOS LTDA",
+      "total_valor": 8959.0,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000021/2025"
+      ],
+      "share_percent": 0.01675362048150947
+    },
+    {
+      "cnpj_cpf": "02375705000119",
+      "razao_social": "DENTAL SUL AMERICA COMERCIAL LTDA",
+      "total_valor": 8713.5,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000034/2024"
+      ],
+      "share_percent": 0.016294527521557405
+    },
+    {
+      "cnpj_cpf": "05607287000136",
+      "razao_social": "CENTRO MUSICAL IVAIPORA LTDA",
+      "total_valor": 8575.6,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000106/2025"
+      ],
+      "share_percent": 0.01603665005036641
+    },
+    {
+      "cnpj_cpf": "22382705000153",
+      "razao_social": "RMM SPORTS COMERCIO DE PRODUTOS ESPORTIVOS LTDA",
+      "total_valor": 8545.66,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000026/2025"
+      ],
+      "share_percent": 0.015980661279608913
+    },
+    {
+      "cnpj_cpf": "37052250000185",
+      "razao_social": "INVICTO COMERCIO DE PRODUTOS PARA SAUDE LTDA",
+      "total_valor": 8466.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000099/2025"
+      ],
+      "share_percent": 0.015831694496758475
+    },
+    {
+      "cnpj_cpf": "44407977000101",
+      "razao_social": "ALEGRO KIDS PRODUTOS MUSICAIS E ACESSORIOS LTDA",
+      "total_valor": 8398.8,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000108/2025"
+      ],
+      "share_percent": 0.015706028317903978
+    },
+    {
+      "cnpj_cpf": "08666165000109",
+      "razao_social": "T. M. T. INSTRUMENTOS MUSICAIS LTDA",
+      "total_valor": 8300.0,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000111/2025"
+      ],
+      "share_percent": 0.015521269114469093
+    },
+    {
+      "cnpj_cpf": "57087387000182",
+      "razao_social": "JDC COMERCIO E DISTRIBUICAO LTDA",
+      "total_valor": 8114.35,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000007/2025"
+      ],
+      "share_percent": 0.015174097595059314
+    },
+    {
+      "cnpj_cpf": "54681225000180",
+      "razao_social": "KM SERVIÇOS MEDICAL LTDA",
+      "total_valor": 8061.95,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000120/2025"
+      ],
+      "share_percent": 0.01507610789607158
+    },
+    {
+      "cnpj_cpf": "29334988000107",
+      "razao_social": "OLIMPO COMERCIO E SERVICOS LTDA",
+      "total_valor": 7500.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000087/2025"
+      ],
+      "share_percent": 0.014025243175725085
+    },
+    {
+      "cnpj_cpf": "17472278000164",
+      "razao_social": "GOLDENPLUS COM. DE MED. E PROD. HOSPITALARES LTDA",
+      "total_valor": 6751.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000029/2024"
+      ],
+      "share_percent": 0.012624588890576008
+    },
+    {
+      "cnpj_cpf": "14800881000130",
+      "razao_social": "LABORATORIO DE PESQ. CLINICAS PRADO LTDA",
+      "total_valor": 6400.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000146/2025"
+      ],
+      "share_percent": 0.011968207509952073
+    },
+    {
+      "cnpj_cpf": "52415955000103",
+      "razao_social": "ALTO URUGUAI COMERCIO DE PRODUTOS HOSPITALARES LTDA",
+      "total_valor": 6118.0,
+      "total_contratos": 1,
+      "setores": [
+        "Educação"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000004/2025"
+      ],
+      "share_percent": 0.01144085836654481
+    },
+    {
+      "cnpj_cpf": "39435202000100",
+      "razao_social": "PROTECNA MANUTENCOES LTDA",
+      "total_valor": 5930.08,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 1,
+      "contratos": [
+        "03238631000131-2-000153/2025"
+      ],
+      "share_percent": 0.011089441873533843
+    },
+    {
+      "cnpj_cpf": "51053659000147",
+      "razao_social": "ROSA CAFE IMPORTS LTDA",
+      "total_valor": 5750.5,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000021/2024"
+      ],
+      "share_percent": 0.010753621450934281
+    },
+    {
+      "cnpj_cpf": "00329586000132",
+      "razao_social": "MAISA CAROLINA DUARTE FERREIRA LTDA",
+      "total_valor": 5538.0,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000025/2025"
+      ],
+      "share_percent": 0.010356239560955403
+    },
+    {
+      "cnpj_cpf": "46796127000160",
+      "razao_social": "ID FARMA LTDA",
+      "total_valor": 4686.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 1,
+      "contratos": [
+        "03238631000131-2-000051/2025"
+      ],
+      "share_percent": 0.008762971936193032
+    },
+    {
+      "cnpj_cpf": "40215862000156",
+      "razao_social": "STOLF DISTRIBUIDORA E SERVICOS LTDA",
+      "total_valor": 4319.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 1,
+      "contratos": [
+        "03238631000131-2-000123/2025"
+      ],
+      "share_percent": 0.00807667003679422
+    },
+    {
+      "cnpj_cpf": "22803038000135",
+      "razao_social": "FEMAP COMERCIO DE PRODUTOS HOSPITALARES LTDA",
+      "total_valor": 4132.09,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 1,
+      "contratos": [
+        "03238631000131-2-000121/2025"
+      ],
+      "share_percent": 0.0077271422765309156
+    },
+    {
+      "cnpj_cpf": "12991532000117",
+      "razao_social": "JUARES LIMA DOS SANTOS",
+      "total_valor": 3892.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000039/2024"
+      ],
+      "share_percent": 0.007278166191989605
+    },
+    {
+      "cnpj_cpf": "03574465000144",
+      "razao_social": "VIDEBAND INDUSTRIA E COMERCIO DE CONFECÇÕES LTDA",
+      "total_valor": 3750.0,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 1,
+      "contratos": [
+        "03238631000131-2-000050/2025"
+      ],
+      "share_percent": 0.007012621587862543
+    },
+    {
+      "cnpj_cpf": "57733201000115",
+      "razao_social": "MASCATE PERCUSSAO - INDUSTRIA E COMERCIO DE INSTRUMENTOS MUSICAIS LTDA",
+      "total_valor": 3683.5,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000105/2025"
+      ],
+      "share_percent": 0.006888264431704447
+    },
+    {
+      "cnpj_cpf": "31282018000157",
+      "razao_social": "BRASIL MED IMPORTACAO E EXPORTACAO LTDA",
+      "total_valor": 3450.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000095/2025"
+      ],
+      "share_percent": 0.006451611860833539
+    },
+    {
+      "cnpj_cpf": "14163479000191",
+      "razao_social": "EXITUS COMERCIAL PRODUTOS E SERVIÇOS LTDA",
+      "total_valor": 3297.53,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000024/2025"
+      ],
+      "share_percent": 0.006166488017233167
+    },
+    {
+      "cnpj_cpf": "21058617000138",
+      "razao_social": "CUIABA COMERCIO DE PRODUTOS LIMPEZA LTDA",
+      "total_valor": 2658.8,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000014/2025"
+      ],
+      "share_percent": 0.004972042207415714
+    },
+    {
+      "cnpj_cpf": "73008682000152",
+      "razao_social": "LABINBRAZ COMERCIAL LTDA",
+      "total_valor": 2634.78,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 1,
+      "contratos": [
+        "03238631000131-2-000154/2025"
+      ],
+      "share_percent": 0.004927124028604926
+    },
+    {
+      "cnpj_cpf": "19717870000104",
+      "razao_social": "KIENTRO BRASIL LTDA",
+      "total_valor": 2596.2,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000027/2024"
+      ],
+      "share_percent": 0.004854978177708995
+    },
+    {
+      "cnpj_cpf": "04724729000161",
+      "razao_social": "MAXLAB PRODUTOS PARA DIAGNOSTICOS E PESQUISAS LTDA",
+      "total_valor": 2503.2,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000028/2024"
+      ],
+      "share_percent": 0.004681065162330004
+    },
+    {
+      "cnpj_cpf": "49413331000142",
+      "razao_social": "D. R. P. PAIVA & A. G. DONADIA LTDA",
+      "total_valor": 2394.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 1,
+      "contratos": [
+        "03238631000131-2-000155/2025"
+      ],
+      "share_percent": 0.004476857621691447
+    },
+    {
+      "cnpj_cpf": "48283797000108",
+      "razao_social": "MULTIPLA COMERCIO E SERVIÇOS LTDA",
+      "total_valor": 2160.0,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 1,
+      "contratos": [
+        "03238631000131-2-000124/2025"
+      ],
+      "share_percent": 0.004039270034608825
+    },
+    {
+      "cnpj_cpf": "57936143000127",
+      "razao_social": "NEXUS NEGOCIOS E SOLUCOES LTDA",
+      "total_valor": 2003.0,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000012/2025"
+      ],
+      "share_percent": 0.0037456749441303126
+    },
+    {
+      "cnpj_cpf": "00134145000185",
+      "razao_social": "DANIEL HENRIQUE LAURINDO",
+      "total_valor": 2002.0,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 1,
+      "contratos": [
+        "03238631000131-2-000140/2025"
+      ],
+      "share_percent": 0.0037438049117068826
+    },
+    {
+      "cnpj_cpf": "19316524000114",
+      "razao_social": "DELTA SHOP - DISTRIBUIDORA DE PRODUTOS HOSPITALARES LTDA",
+      "total_valor": 1972.35,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000031/2024"
+      ],
+      "share_percent": 0.0036883584503521827
+    },
+    {
+      "cnpj_cpf": "40223106000179",
+      "razao_social": "DARLU INDUSTRIA TEXTIL LTDA",
+      "total_valor": 1782.0,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000019/2024"
+      ],
+      "share_percent": 0.0033323977785522803
+    },
+    {
+      "cnpj_cpf": "27518373000105",
+      "razao_social": "META COMERCIO DE FERRAGENS E FERRAMENTAS LTDA",
+      "total_valor": 1597.08,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000019/2025"
+      ],
+      "share_percent": 0.0029865913828116025
+    },
+    {
+      "cnpj_cpf": "47326875000141",
+      "razao_social": "TANKAVEL LTDA",
+      "total_valor": 1524.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000093/2025"
+      ],
+      "share_percent": 0.0028499294133073373
+    },
+    {
+      "cnpj_cpf": "46973126000143",
+      "razao_social": "SSG SOLUCOES LTDA",
+      "total_valor": 909.6,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000022/2024"
+      ],
+      "share_percent": 0.0017009814923519386
+    },
+    {
+      "cnpj_cpf": "04267668000150",
+      "razao_social": "DINAMO EXPRESS INDUSTRIA E COMERCIO LTDA",
+      "total_valor": 850.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000035/2024"
+      ],
+      "share_percent": 0.0015895275599155097
+    },
+    {
+      "cnpj_cpf": "35215257000145",
+      "razao_social": "DENTAL PREMIUM LTDA",
+      "total_valor": 810.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000037/2024"
+      ],
+      "share_percent": 0.0015147262629783091
+    },
+    {
+      "cnpj_cpf": "44673873000130",
+      "razao_social": "TIME PROMOCAO DE VENDAS E MARKETING LTDA",
+      "total_valor": 496.8,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000018/2024"
+      ],
+      "share_percent": 0.0009290321079600296
+    },
+    {
+      "cnpj_cpf": "38220198000191",
+      "razao_social": "VITAMED DISTRIBUICAO E COMERCIO DE PRODUTOS MEDICOS HOSPITALARES LTDA",
+      "total_valor": 400.0,
+      "total_contratos": 1,
+      "setores": [
+        "Saúde"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000094/2025"
+      ],
+      "share_percent": 0.0007480129693720046
+    },
+    {
+      "cnpj_cpf": "43586456000198",
+      "razao_social": "FABRIPEC ESPORTES LTDA",
+      "total_valor": 337.79,
+      "total_contratos": 1,
+      "setores": [
+        "Administração Geral & Outros"
+      ],
+      "dispensas": 0,
+      "contratos": [
+        "03238631000131-2-000023/2025"
+      ],
+      "share_percent": 0.0006316782523104236
+    }
+  ]
 }
