@@ -1,50 +1,22 @@
 {
-  "total_contratado": 2225049.0,
-  "total_fornecedores": 6,
-  "hhi_index": 2810.59,
+  "total_contratado": 1690200.0,
+  "total_fornecedores": 3,
+  "hhi_index": 7956.07,
   "top10_share": 100.0,
   "suppliers": [
     {
-      "cnpj_cpf": "03411908000186",
-      "razao_social": "GREEN FARMACEUTICA LTDA",
-      "total_valor": 845750.0,
+      "cnpj_cpf": "18009871000131",
+      "razao_social": "PANTANAL GESTAO E TECNOLOGIA LTDA",
+      "total_valor": 1500000.0,
       "total_contratos": 1,
       "setores": [
-        "Saúde"
+        "Saneamento & Limpeza"
       ],
       "dispensas": 0,
       "contratos": [
-        "03238631000131-2-000012/2024"
+        "03238631000131-2-000003/2024"
       ],
-      "share_percent": 38.01039887211473
-    },
-    {
-      "cnpj_cpf": "18942774000105",
-      "razao_social": "PRADO MEDICAMENTOS E SERVICOS LTDA",
-      "total_valor": 637115.0,
-      "total_contratos": 1,
-      "setores": [
-        "Saúde"
-      ],
-      "dispensas": 0,
-      "contratos": [
-        "03238631000131-2-000011/2024"
-      ],
-      "share_percent": 28.633751436485216
-    },
-    {
-      "cnpj_cpf": "21227039000116",
-      "razao_social": "LIFE CENTER COMÉRCIO E DISTRIBUIDORA DE MEDICAMENTOS LTDA",
-      "total_valor": 494004.0,
-      "total_contratos": 1,
-      "setores": [
-        "Saúde"
-      ],
-      "dispensas": 0,
-      "contratos": [
-        "03238631000131-2-000013/2024"
-      ],
-      "share_percent": 22.201938024735636
+      "share_percent": 88.74689385871494
     },
     {
       "cnpj_cpf": "22807196000163",
@@ -58,21 +30,7 @@
       "contratos": [
         "03238631000131-2-000001/2024"
       ],
-      "share_percent": 6.471767588039635
-    },
-    {
-      "cnpj_cpf": "11491749000103",
-      "razao_social": "SONAR EDITORA E COMERCIO DE LIVROS LTDA",
-      "total_valor": 57980.0,
-      "total_contratos": 1,
-      "setores": [
-        "Educação"
-      ],
-      "dispensas": 1,
-      "contratos": [
-        "03238631000131-2-000010/2024"
-      ],
-      "share_percent": 2.6057853107954028
+      "share_percent": 8.519701810436635
     },
     {
       "cnpj_cpf": "19509699000148",
@@ -86,7 +44,7 @@
       "contratos": [
         "03238631000131-2-000002/2024"
       ],
-      "share_percent": 2.0763587678293827
+      "share_percent": 2.7334043308484204
     }
   ]
 }
